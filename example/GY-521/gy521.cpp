@@ -1,5 +1,3 @@
-#include <Arduino.h>
-
 #include <I2Cdev.h>
 #include <MPU6050_6Axis_MotionApps20.h>
 #include <Wire.h>
@@ -9,11 +7,17 @@ int16_t gx, gy, gz;
 int valx , valy , valz;
 char rd;
 int prevVal;
-// int pin11 = 5 , pin10 = 4 ;
-// int val1 , val2 ;
-// int valgy1 = 0 , valgy2 = 0;
+int ledR = 16 ;
+int ledG = 14 ;
+int ledY = 12 ;
+int pin11 = 5 , pin10 = 4 ;
+int val1 , val2 ;
+int valgy1 = 0 , valgy2 = 0;
 
 void setup() {
+  pinMode(ledR, OUTPUT) ;
+  pinMode(ledG, OUTPUT) ;
+  pinMode(ledY, OUTPUT) ;
   Wire.begin();
   Serial.begin(38400);
   Serial.println("Initialize MPU");
@@ -32,6 +36,26 @@ void loop() {
   Serial.print(valy) ;
   Serial.print(" axis z = ") ;
   Serial.println(valz) ;
+  if ( valy > 150) {
+    digitalWrite(ledR, HIGH);
+    digitalWrite(ledG, LOW);
+    digitalWrite(ledY, LOW);
+  }
+  if (valy  < 50) {
+    digitalWrite(ledR, LOW);
+    digitalWrite(ledG, HIGH);
+    digitalWrite(ledY, LOW);
+  }
+  if (valx < 50) {
+    digitalWrite(ledR, LOW);
+    digitalWrite(ledG, LOW);
+    digitalWrite(ledY, HIGH);
+  }
+  if (valz > 150) {
+    digitalWrite(ledR, LOW);
+    digitalWrite(ledG, LOW);
+    digitalWrite(ledY, LOW);
+  }
   
   delay(100);
 }
