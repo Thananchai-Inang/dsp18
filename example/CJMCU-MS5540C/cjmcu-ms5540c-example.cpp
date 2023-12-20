@@ -6,7 +6,7 @@
 int pwmChannel = 0;
 int frequence = 32768;
 int resolution = 8;
-int pwmPin = 21;
+int pwmPin = 5;
 int pH2O = 1;
 int pHG = 13.56;
 int PAir = 727.71; //แก้ค่าก่อนเริ่ม
