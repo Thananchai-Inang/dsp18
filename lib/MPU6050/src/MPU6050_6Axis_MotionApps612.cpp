@@ -315,7 +315,7 @@ const unsigned char dmpMemory[MPU6050_DMP_CODE_SIZE] PROGMEM = {
 0xC1, 0xC3, 0xD8, 0xB1, 0xB9, 0xF3, 0x8B, 0xA3, 0x91, 0xB6, 0x09, 0xB4, 0xD9, 0xAB, 0xDE, 0xB0,
 0x87, 0x9C, 0xB9, 0xA3, 0xDD, 0xF1, 0xB3, 0x8B, 0x8B, 0x8B, 0x8B, 0x8B, 0xB0, 0x87, 0x20, 0x28,
 0x30, 0x38, 0xB2, 0x8B, 0xB6, 0x9B, 0xF2, 0xA3, 0xC0, 0xC8, 0xC2, 0xC4, 0xCC, 0xC6, 0xA3, 0xA3,
-0xA3, 0xF1, 0xB0, 0x87, 0xB5, 0x9A, 0xD8, 0xF3, 0x9B, 0xA3, 0xA3, 0xDC, 0xBA, 0xAC, 0xDF, 0xB9,
+0xA3, 0xF1, 0xB0, 0x87, 0xB5, 0x9A, 0xD8, 0xF3, 0x9B, 0xA3, 0xA3, 0xDC, 0xBA, 0xAC, 0xDF, 0xB9, //Reverted back as packet size changes causing isues... TODO:change 2742 from 0xD8 to 0x20 Including the DMP_FEATURE_TAP -- known issue in which if you do not enable DMP_FEATURE_TAP then the interrupts will be at 200Hz even if fifo rate
 0xA3, 0xFE, 0xF2, 0xAB, 0xC4, 0xAA, 0xF1, 0xDF, 0xDF, 0xBB, 0xAF, 0xDF, 0xDF, 0xA3, 0xA3, 0xA3,
 0xD8, 0xD8, 0xD8, 0xBB, 0xB3, 0xB7, 0xF1, 0xAA, 0xF9, 0xDA, 0xFF, 0xD9, 0x80, 0x9A, 0xAA, 0x28,
 0xB4, 0x80, 0x98, 0xA7, 0x20, 0xB7, 0x97, 0x87, 0xA8, 0x66, 0x88, 0xF0, 0x79, 0x51, 0xF1, 0x90,
@@ -339,14 +339,9 @@ const unsigned char dmpMemory[MPU6050_DMP_CODE_SIZE] PROGMEM = {
 0xA6, 0xD9, 0x00, 0xD8, 0xF1, 0xFF,
 };
 
-// this divisor is pre configured into the above image and can't be modified at this time.
-#ifndef MPU6050_DMP_FIFO_RATE_DIVISOR 
-#define MPU6050_DMP_FIFO_RATE_DIVISOR 0x01 // The New instance of the Firmware has this as the default 
-#endif
-
 // this is the most basic initialization I can create. with the intent that we access the register bytes as few times as needed to get the job done.
 // for detailed descriptins of all registers and there purpose google "MPU-6000/MPU-6050 Register Map and Descriptions"
-uint8_t MPU6050::dmpInitialize() { // Lets get it over with fast Write everything once and set it up necely
+uint8_t MPU6050::dmpInitialize(uint8_t rateDivisor, uint8_t mpuAddr) { // Lets get it over with fast Write everything once and set it up necely
 	uint8_t val;
 	uint16_t ival;
   // Reset procedure per instructions in the "MPU-6000/MPU-6050 Register Map and Descriptions" page 41
@@ -360,7 +355,7 @@ uint8_t MPU6050::dmpInitialize() { // Lets get it over with fast Write everythin
 	I2Cdev::writeBytes(devAddr,0x1C, 1, &(val = 0x00), wireObj); // 0000 0000 ACCEL_CONFIG: 0 =  Accel Full Scale Select: 2g
 	I2Cdev::writeBytes(devAddr,0x37, 1, &(val = 0x80), wireObj); // 1001 0000 INT_PIN_CFG: ACTL The logic level for int pin is active low. and interrupt status bits are cleared on any read
 	I2Cdev::writeBytes(devAddr,0x6B, 1, &(val = 0x01), wireObj); // 0000 0001 PWR_MGMT_1: Clock Source Select PLL_X_gyro
-	I2Cdev::writeBytes(devAddr,0x19, 1, &(val = 0x04), wireObj); // 0000 0100 SMPLRT_DIV: Divides the internal sample rate 400Hz ( Sample Rate = Gyroscope Output Rate / (1 + SMPLRT_DIV))
+	I2Cdev::writeBytes(devAddr,0x19, 1, &(val = rateDivisor), wireObj); // 0000 0100 SMPLRT_DIV: Divides the internal sample rate 400Hz ( Sample Rate = Gyroscope Output Rate / (1 + SMPLRT_DIV))
 	I2Cdev::writeBytes(devAddr,0x1A, 1, &(val = 0x01), wireObj); // 0000 0001 CONFIG: Digital Low Pass Filter (DLPF) Configuration 188HZ  //Im betting this will be the beat
 	if (!writeProgMemoryBlock(dmpMemory, MPU6050_DMP_CODE_SIZE)) return 1; // Loads the DMP image into the MPU6050 Memory // Should Never Fail
 	I2Cdev::writeWords(devAddr, 0x70, 1, &(ival = 0x0400), wireObj); // DMP Program Start Address
@@ -490,10 +485,10 @@ uint8_t MPU6050::dmpGetGyro(VectorInt16 *v, const uint8_t* packet) {
 // uint8_t MPU6050::dmpSetLinearAccelFilterCoefficient(float coef);
 // uint8_t MPU6050::dmpGetLinearAccel(long *data, const uint8_t* packet);
 uint8_t MPU6050::dmpGetLinearAccel(VectorInt16 *v, VectorInt16 *vRaw, VectorFloat *gravity) {
-    // get rid of the gravity component (+1g = +8192 in standard DMP FIFO packet, sensitivity is 2g)
-    v -> x = vRaw -> x - gravity -> x*8192;
-    v -> y = vRaw -> y - gravity -> y*8192;
-    v -> z = vRaw -> z - gravity -> z*8192;
+    // get rid of the gravity component (+1g = +16384 in standard DMP FIFO packet, sensitivity is 2g)
+    v -> x = vRaw -> x - gravity -> x*16384;
+    v -> y = vRaw -> y - gravity -> y*16384;
+    v -> z = vRaw -> z - gravity -> z*16384;
     return 0;
 }
 // uint8_t MPU6050::dmpGetLinearAccelInWorld(long *data, const uint8_t* packet);
@@ -510,7 +505,7 @@ uint8_t MPU6050::dmpGetLinearAccelInWorld(VectorInt16 *v, VectorInt16 *vReal, Qu
 // uint8_t MPU6050::dmpGetTemperature(long *data, const uint8_t* packet);
 // uint8_t MPU6050::dmpGetGravity(long *data, const uint8_t* packet);
 uint8_t MPU6050::dmpGetGravity(int16_t *data, const uint8_t* packet) {
-    /* +1g corresponds to +8192, sensitivity is 2g. */
+    /* +1g corresponds to +16384, sensitivity is 2g. */
     int16_t qI[4];
     uint8_t status = dmpGetQuaternion(qI, packet);
     data[0] = ((int32_t)qI[1] * qI[3] - (int32_t)qI[0] * qI[2]) / 16384;

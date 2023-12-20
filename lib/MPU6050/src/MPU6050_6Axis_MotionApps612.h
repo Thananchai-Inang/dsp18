@@ -43,11 +43,16 @@ THE SOFTWARE.
 
 #include "MPU6050.h"
 
+// this divisor is pre configured into the above image and can't be modified at this time.
+#ifndef MPU6050_DMP_FIFO_RATE_DIVISOR 
+#define MPU6050_DMP_FIFO_RATE_DIVISOR 0x01 // The New instance of the Firmware has this as the default 
+#endif
+
 class MPU6050_6Axis_MotionApps612 : public MPU6050_Base {
     public:
         MPU6050_6Axis_MotionApps612(uint8_t address=MPU6050_DEFAULT_ADDRESS, void *wireObj=0) : MPU6050_Base(address, wireObj) { }
 
-        uint8_t dmpInitialize();
+        uint8_t dmpInitialize(uint8_t rateDivisor = MPU6050_DMP_FIFO_RATE_DIVISOR, uint8_t mpuAddr = 0x68);
         bool dmpPacketAvailable();
 
         uint8_t dmpSetFIFORate(uint8_t fifoRate);
