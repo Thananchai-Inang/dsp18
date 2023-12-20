@@ -24,7 +24,8 @@ int resolution = 8;
 int pwmPin = 5;
 int pH2O = 1;
 int pHG = 13.56;
-int PAir = 727.71; //แก้ค่าก่อนเริ่ม
+bool init_PAir = false;
+float PAir = 0.0;
 
 void resetsensor() {
     SPI.setDataMode(SPI_MODE0); 
@@ -137,8 +138,15 @@ void setup() {
     const long X = (SENS * (D1 - 7168) >> 14) - OFF;
     long PCOMP = ((X * 10) >> 5) + 2500;
     float TEMPREAL = TEMP/10;
-    float PCOMPHG = PCOMP * 750.06 / 10000; // mbar*10 -> mmHg === ((mbar/10)/1000)*750/06
+    if (!init_PAir) {
+      PAir = PCOMP * 750.06 / 10000; // mbar*10 -> mmHg === ((mbar/10)/1000)*750/06
+      init_PAir = true;
+      Serial.println("Initialize PAir variable");
+    }
+    
+    float PCOMPHG = PCOMP * 750.06 / 10000; // mbar*10 -> mmHg === ((mbar/10)/1000)*750/06  
     float Depth = (PCOMPHG-PAir)*(pHG/pH2O)/10;
+    
 
     Serial.print("Compensated pressure in mmHg = ");
     Serial.println(PCOMPHG);
