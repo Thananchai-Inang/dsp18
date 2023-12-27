@@ -1,3 +1,5 @@
+//can't control motor speed just yet.
+
 #include <Arduino.h>
 
 const int in1Pin = 25;  // H-Bridge input pins
