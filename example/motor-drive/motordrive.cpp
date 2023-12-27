@@ -7,7 +7,7 @@ const int in2Pin = 26;
 
 void setup()
 {
-  Serial.begin(9600);
+  Serial.begin(115200);
   pinMode(in1Pin, OUTPUT);
   pinMode(in2Pin, OUTPUT);
   // pinMode(in3Pin, OUTPUT);
@@ -48,4 +48,5 @@ void loop()
       // digitalWrite(in4Pin,LOW);
     }
   }
+  delay(100);
 }
