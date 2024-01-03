@@ -56,7 +56,7 @@ const int pwmChannelPump1 = 1; //define pump 1 as channel 1
 const int freq = 30000;
 const int resolutionPump = 8;
 int dutyCycle = 120;
-float controlP; 
+float controlP1; 
 
 
 
@@ -214,11 +214,11 @@ void loop() {
     previousTime = currentTime;
     Lasterr = err;
 
-    controlP = float((kp * err)+(kd * der));
+    controlP1 = float((kp * err)+(kd * der));
 
-    int PWM1 = map(abs(controlP),0,190,140,255); //PWM value for pump1
+    int PWM1 = map(abs(controlP1),0,190,140,255); //PWM value for pump1
 
-    if (controlP >= 0) {
+    if (controlP1 >= 0) {
         digitalWrite(pump1Pin1, LOW); //water in
         digitalWrite(pump1Pin2, HIGH);
         ledcWrite(pwmChannelPump1, PWM1);
