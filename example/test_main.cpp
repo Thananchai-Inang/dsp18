@@ -38,29 +38,48 @@ float err;
 float Lasterr = 0;
 float der;
 float Depth;
+
+float DepthTarget = 20;////////target///////////
+float LastDepth = 0;
+unsigned long previousTime = 0;
+
+//plotter
+int low = 0;
+int high = 40;
 //----------------------------define motor drive pins----------------------------
-const int in1Pin = 25;  // motor 1
-const int in2Pin = 26;
+const int pump1Pin1 = 25;  // pump 1
+const int pump1Pin2 = 26;  
+const int pump1PinPWM = 27;  
+const int pwmChannelPump1 = 1; //define pump 1 as channel 1
+
+//other PWM param
+const int freq = 30000;
+const int resolutionPump = 8;
+int dutyCycle = 120;
+float controlP; 
 
 
 
 void setup() {
     Serial.begin(115200);
 
-    //----------------------------Depth Sensor----------------------------
+    //----------------------------motor drive setup----------------------------
     Serial.println("+ - sets direction of motors, any other key stops motors");
 
-    pinMode(in1Pin, OUTPUT); //motor 1
-    pinMode(in2Pin, OUTPUT);
+    pinMode(pump1Pin1, OUTPUT); //motor 1
+    pinMode(pump1Pin2, OUTPUT);
+    pinMode(pump1PinPWM, OUTPUT);
+    ledcSetup(pwmChannelPump1, freq, resolutionPump);
+    ledcAttachPin(pump1PinPWM, pwmChannelPump1); //map pwm channel 1 to motor1PinPWM
 
-    //----------------------------Depth Sensor----------------------------
+    //----------------------------Depth Sensor setup----------------------------
     SPI.begin();
     SPI.setBitOrder(MSBFIRST);
     SPI.setClockDivider(SPI_CLOCK_DIV32);
     ledcSetup(pwmChannel, frequence, resolution);
     ledcAttachPin(pwmPin, pwmChannel);
 
-    //----------------------------Gyroscope----------------------------
+    //----------------------------Gyroscope setup----------------------------
     Wire.begin();
     Serial.begin(115200);
     Serial.println("Initialize MPU");
@@ -182,6 +201,52 @@ void loop() {
     Serial.print(valy) ;
     Serial.print(" axis z = ") ;
     Serial.println(valz) ;
+
+    //----------------------------main Control----------------------------
+    unsigned long currentTime = millis();
+    unsigned long timeDifference = currentTime - previousTime;
+
+    err = DepthTarget - Depth;
+    
+    // derivative = (err - lasterr)/(time-lasttime);
+    der = (err - Lasterr)/(timeDifference);
+
+    previousTime = currentTime;
+    Lasterr = err;
+
+    controlP = float((kp * err)+(kd * der));
+
+    int PWM1 = map(abs(controlP),0,190,140,255); //PWM value for pump1
+
+    if (controlP >= 0) {
+        digitalWrite(pump1Pin1, LOW); //water in
+        digitalWrite(pump1Pin2, HIGH);
+        ledcWrite(pwmChannelPump1, PWM1);
+        Serial.print("Pump_IN with PWM: ");
+        Serial.println(PWM1);
+    } 
+    else {
+        digitalWrite(pump1Pin1, HIGH); //water out
+        digitalWrite(pump1Pin2, LOW);
+        ledcWrite(pwmChannelPump1, PWM1);
+        Serial.print("Pump_OUT with PWM: ");
+        Serial.println(PWM1);
+    }
+    
+    Serial.print("low:");
+    Serial.print(low); // To freeze the lower limit
+    Serial.print(",");
+    Serial.print("high:");
+    Serial.print(high); // To freeze the upper limit
+    Serial.print(",");
+    Serial.print("err:");
+    Serial.print(err);
+    Serial.print(",");
+    Serial.print("Depth:");
+    Serial.print(Depth);
+    Serial.print(",");
+    Serial.print("Depth target:");
+    Serial.println(DepthTarget);
 
     delay(200);
 }
