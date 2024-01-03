@@ -190,7 +190,7 @@ void loop() {
     Serial.print("Depth in cm = ");
     Serial.println(Depth);
 
-    //----------------------------print Gyroscope Value----------------------------
+    //----------------------------get Gyroscope Value----------------------------
     mpu.getMotion6(&ax, &ay, &az, &gx, &gy, &gz);
     valx = map(ax, -17000, 17000, 0, 179);
     valy = map(ay, -17000, 17000, 0, 179);
