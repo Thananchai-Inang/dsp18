@@ -100,8 +100,6 @@ void setup() {
     Serial.println(mpu.testConnection() ? "Connected" : "Connection failed");
   }
 
-
-
 void loop() {
     //----------------------------main Depth Sensor----------------------------
     ledcWrite(pwmChannel, 127);
@@ -215,17 +213,22 @@ void loop() {
     Serial.print(" axis z = ") ;
     Serial.println(valz) ;
 
-    //----------------------------main Control----------------------------
+    //---------------------------- main Control----------------------------
     unsigned long currentTime = millis();
     unsigned long timeDifference = currentTime - previousTime;
 
+    //--------gyro error--------
+
+
+    //--------depth error--------
     err = DepthTarget - Depth;
     // derivative = (err - lasterr)/(time-lasttime);
     der = (err - Lasterr)/(timeDifference);
     previousTime = currentTime;
     Lasterr = err;
 
-    //-----------------------------pump 1 control------------------------------------
+    //---------------------------- Control Gyro ----------------------------
+    //-----------------------------pump 1 control gyro------------------------------------
     controlP1 = float((kp * err)+(kd * der));
 
     int PWM1 = map(abs(controlP1),0,190,140,255); //PWM value for pump1
@@ -234,30 +237,39 @@ void loop() {
         digitalWrite(pump1Pin1, HIGH); //water in
         digitalWrite(pump1Pin2, LOW);
         ledcWrite(pwmChannelPump1, PWM1);
-        Serial.print("Pump_IN with PWM: ");
+        Serial.print("Pump1_IN with PWM: ");
         Serial.println(PWM1);
     } 
     else {
         digitalWrite(pump1Pin1, LOW); //water out
         digitalWrite(pump1Pin2, HIGH);
         ledcWrite(pwmChannelPump1, PWM1);
-        Serial.print("Pump_OUT with PWM: ");
+        Serial.print("Pump1_OUT with PWM: ");
         Serial.println(PWM1);
     }
 
-    //-----------------------------pump 2 control------------------------------------
+    //-----------------------------pump 2 control gyro------------------------------------
 
-    //-----------------------------pump 3 control------------------------------------
+    //-----------------------------pump 3 control gyro------------------------------------
 
-    //-----------------------------pump 4 control------------------------------------
+    //-----------------------------pump 4 control gyro------------------------------------
     
-    Serial.print("low:");
+    //---------------------------- Control depth----------------------------
+    //-----------------------------pump 1 control depth------------------------------------
+
+    //-----------------------------pump 2 control depth------------------------------------
+
+    //-----------------------------pump 3 control depth------------------------------------
+
+    //-----------------------------pump 4 control depth------------------------------------
+
+    Serial.print("low_lim:");
     Serial.print(low); // To freeze the lower limit
     Serial.print(",");
-    Serial.print("high:");
+    Serial.print("high_lim:");
     Serial.print(high); // To freeze the upper limit
     Serial.print(",");
-    Serial.print("err:");
+    Serial.print("depth_err:");
     Serial.print(err);
     Serial.print(",");
     Serial.print("Depth:");
@@ -265,6 +277,7 @@ void loop() {
     Serial.print(",");
     Serial.print("Depth target:");
     Serial.println(DepthTarget);
+    Serial.println("##############################");
 
     delay(200);
 }
