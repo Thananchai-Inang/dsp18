@@ -39,18 +39,26 @@ float Lasterr = 0;
 float der;
 float Depth;
 
-float DepthTarget = 20;////////target///////////
+float DepthTarget = 20;////////define target///////////
 float LastDepth = 0;
 unsigned long previousTime = 0;
 
 //plotter
 int low = 0;
 int high = 40;
+
 //----------------------------define motor drive pins----------------------------
+//-----------------------------pump 1 pins------------------------------------
 const int pump1Pin1 = 25;  // pump 1
 const int pump1Pin2 = 26;  
 const int pump1PinPWM = 27;  
 const int pwmChannelPump1 = 1; //define pump 1 as channel 1
+
+//-----------------------------pump 2 pins------------------------------------
+
+//-----------------------------pump 3 pins------------------------------------
+
+//-----------------------------pump 4 pins------------------------------------
 
 //other PWM param
 const int freq = 30000;
@@ -58,19 +66,24 @@ const int resolutionPump = 8;
 int dutyCycle = 120;
 float controlP1; 
 
-
-
 void setup() {
     Serial.begin(115200);
 
     //----------------------------motor drive setup----------------------------
     Serial.println("+ - sets direction of motors, any other key stops motors");
 
+    //-----------------------------pump 1 setup------------------------------------
     pinMode(pump1Pin1, OUTPUT); //motor 1
     pinMode(pump1Pin2, OUTPUT);
     pinMode(pump1PinPWM, OUTPUT);
     ledcSetup(pwmChannelPump1, freq, resolutionPump);
     ledcAttachPin(pump1PinPWM, pwmChannelPump1); //map pwm channel 1 to motor1PinPWM
+
+    //-----------------------------pump 2 setup------------------------------------
+
+    //-----------------------------pump 3 setup------------------------------------
+
+    //-----------------------------pump 4 setup------------------------------------
 
     //----------------------------Depth Sensor setup----------------------------
     SPI.begin();
@@ -190,7 +203,7 @@ void loop() {
     Serial.print("Depth in cm = ");
     Serial.println(Depth);
 
-    //----------------------------print Gyroscope Value----------------------------
+    //----------------------------get Gyroscope Value----------------------------
     mpu.getMotion6(&ax, &ay, &az, &gx, &gy, &gz);
     valx = map(ax, -17000, 17000, 0, 179);
     valy = map(ay, -17000, 17000, 0, 179);
@@ -207,31 +220,36 @@ void loop() {
     unsigned long timeDifference = currentTime - previousTime;
 
     err = DepthTarget - Depth;
-    
     // derivative = (err - lasterr)/(time-lasttime);
     der = (err - Lasterr)/(timeDifference);
-
     previousTime = currentTime;
     Lasterr = err;
 
+    //-----------------------------pump 1 control------------------------------------
     controlP1 = float((kp * err)+(kd * der));
 
     int PWM1 = map(abs(controlP1),0,190,140,255); //PWM value for pump1
 
     if (controlP1 >= 0) {
-        digitalWrite(pump1Pin1, LOW); //water in
-        digitalWrite(pump1Pin2, HIGH);
+        digitalWrite(pump1Pin1, HIGH); //water in
+        digitalWrite(pump1Pin2, LOW);
         ledcWrite(pwmChannelPump1, PWM1);
         Serial.print("Pump_IN with PWM: ");
         Serial.println(PWM1);
     } 
     else {
-        digitalWrite(pump1Pin1, HIGH); //water out
-        digitalWrite(pump1Pin2, LOW);
+        digitalWrite(pump1Pin1, LOW); //water out
+        digitalWrite(pump1Pin2, HIGH);
         ledcWrite(pwmChannelPump1, PWM1);
         Serial.print("Pump_OUT with PWM: ");
         Serial.println(PWM1);
     }
+
+    //-----------------------------pump 2 control------------------------------------
+
+    //-----------------------------pump 3 control------------------------------------
+
+    //-----------------------------pump 4 control------------------------------------
     
     Serial.print("low:");
     Serial.print(low); // To freeze the lower limit

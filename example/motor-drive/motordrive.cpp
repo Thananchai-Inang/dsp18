@@ -30,7 +30,7 @@ void loop()
     char ch = Serial.read();
     if (ch == '+')
     {
-      Serial.println("CW");
+      Serial.println("CW"); //pumpout
       // first motor
       digitalWrite(in1Pin,LOW);
       digitalWrite(in2Pin,HIGH);
@@ -42,7 +42,7 @@ void loop()
 
     else if (ch == '-')
     {
-      Serial.println("CCW");
+      Serial.println("CCW"); //pumpin
       digitalWrite(in1Pin,HIGH);
       digitalWrite(in2Pin,LOW);
       ledcWrite(pwmChannelPump1, PWM2);
