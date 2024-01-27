@@ -63,21 +63,21 @@ const int pump1PinPWM = 27;
 const int pwmChannelPump1 = 1; //define pump 1 as channel 1
 
 //-----------------------------pump 2 pins------------------------------------
-const int pump2Pin1 = 16;  // IN1 of motor drive R
-const int pump2Pin2 = 17;  // IN2 of motor drive R
-const int pump2PinPWM = 32;  
+const int pump2Pin1 = 2;  // IN1 of motor drive R
+const int pump2Pin2 = 4;  // IN2 of motor drive R
+const int pump2PinPWM = 15;  
 const int pwmChannelPump2 = 2; //define pump 2 as channel 2
 
 //-----------------------------pump 3 pins------------------------------------
-const int pump3Pin1 = 12;  // IN3 of motor drive L
-const int pump3Pin2 = 13;  // IN4 of motor drive L
+const int pump3Pin1 = 13;  // IN3 of motor drive L
+const int pump3Pin2 = 12;  // IN4 of motor drive L
 const int pump3PinPWM = 14;  
 const int pwmChannelPump3 = 3; //define pump 3 as channel 3
 
 //-----------------------------pump 4 pins------------------------------------
-const int pump4Pin1 = 2;  // IN3 of motor drive R
-const int pump4Pin2 = 4;  // IN4 of motor drive R
-const int pump4PinPWM = 15;  
+const int pump4Pin1 = 16;  // IN3 of motor drive R
+const int pump4Pin2 = 33;  // IN4 of motor drive R
+const int pump4PinPWM = 32;  
 const int pwmChannelPump4 = 4; //define pump 4 as channel 4
 
 //other PWM param

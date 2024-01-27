@@ -7,7 +7,7 @@ const int pwmChannelPump1 = 1;
 //other PWM param
 const int freq = 30000;
 const int resolutionPump = 8;
-const float PWM1 = 100;
+const float PWM1 = 150;
 const float PWM2 = 200;
 
 
