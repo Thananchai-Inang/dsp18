@@ -1,107 +1,37 @@
 #include <Arduino.h>
+
 #include <SPI.h>
-#include <I2Cdev.h>
-#include <MPU6050_6Axis_MotionApps20.h>
-#include <Wire.h>
 
-//----------------------------Gyroscope parameters----------------------------
-MPU6050 mpu;
-int16_t ax, ay, az;
-int16_t gx, gy, gz;
-int valx , valy , valz;
-char rd;
-int prevVal;
-int pin11 = 5 , pin10 = 4 ;
-int val1 , val2 ;
-int valgy1 = 0 , valgy2 = 0;
-
-//----------------------------Depth Sensor parameters----------------------------
+//Depth Sensor
 int pwmChannel = 0;
 int frequence = 32768;
 int resolution = 8;
 int pwmPin = 5;
 int pH2O = 1;
 int pHG = 13.56;
-bool init_PAir = false;
-float PAir = 0.0;
-//----------------------------Depth sensor function----------------------------
+int PAir = 727.71; //แก้ค่าก่อนเริ่ม
+
 void resetsensor() {
     SPI.setDataMode(SPI_MODE0); 
     SPI.transfer(0x15);
     SPI.transfer(0x55);
     SPI.transfer(0x40);
 }
-//----------------------------Control parameters----------------------------
-float kp = 6;
-float kd = 1;
-float err;
-float Lasterr = 0;
-float der;
-float Depth;
-
-float DepthTarget = 20;////////define target///////////
-float LastDepth = 0;
-unsigned long previousTime = 0;
-
-//plotter
-int low = 0;
-int high = 40;
-
-//----------------------------define motor drive pins----------------------------
-//-----------------------------pump 1 pins------------------------------------
-const int pump1Pin1 = 25;  // pump 1
-const int pump1Pin2 = 26;  
-const int pump1PinPWM = 27;  
-const int pwmChannelPump1 = 1; //define pump 1 as channel 1
-
-//-----------------------------pump 2 pins------------------------------------
-
-//-----------------------------pump 3 pins------------------------------------
-
-//-----------------------------pump 4 pins------------------------------------
-
-//other PWM param
-const int freq = 30000;
-const int resolutionPump = 8;
-int dutyCycle = 120;
-float controlP1; 
 
 void setup() {
     Serial.begin(115200);
 
-    //----------------------------motor drive setup----------------------------
-    Serial.println("+ - sets direction of motors, any other key stops motors");
-
-    //-----------------------------pump 1 setup------------------------------------
-    pinMode(pump1Pin1, OUTPUT); //motor 1
-    pinMode(pump1Pin2, OUTPUT);
-    pinMode(pump1PinPWM, OUTPUT);
-    ledcSetup(pwmChannelPump1, freq, resolutionPump);
-    ledcAttachPin(pump1PinPWM, pwmChannelPump1); //map pwm channel 1 to motor1PinPWM
-
-    //-----------------------------pump 2 setup------------------------------------
-
-    //-----------------------------pump 3 setup------------------------------------
-
-    //-----------------------------pump 4 setup------------------------------------
-
-    //----------------------------Depth Sensor setup----------------------------
+    //Depth Sensor
     SPI.begin();
     SPI.setBitOrder(MSBFIRST);
     SPI.setClockDivider(SPI_CLOCK_DIV32);
     ledcSetup(pwmChannel, frequence, resolution);
     ledcAttachPin(pwmPin, pwmChannel);
+    }
 
-    //----------------------------Gyroscope setup----------------------------
-    Wire.begin();
-    Serial.begin(115200);
-    Serial.println("Initialize MPU");
-    mpu.initialize();
-    Serial.println(mpu.testConnection() ? "Connected" : "Connection failed");
-  }
+    void loop() {
 
-void loop() {
-    //----------------------------main Depth Sensor----------------------------
+    //Depth Sensor
     ledcWrite(pwmChannel, 127);
     resetsensor();
     unsigned int result1 = 0;
@@ -151,7 +81,7 @@ void loop() {
     long c6 = result2 & 0x003F;
     resetsensor();
 
-    //----------------------------main Pressure----------------------------
+    //Pressure:
     unsigned int presMSB = 0; 
     unsigned int presLSB = 0; 
     unsigned int D1 = 0;
@@ -165,7 +95,7 @@ void loop() {
     D1 = presMSB | presLSB;
     resetsensor();
 
-    //----------------------------main Temperature----------------------------
+    //Temperature:
     unsigned int tempMSB = 0;
     unsigned int tempLSB = 0;
     unsigned int D2 = 0;
@@ -185,100 +115,12 @@ void loop() {
     const long X = (SENS * (D1 - 7168) >> 14) - OFF;
     long PCOMP = ((X * 10) >> 5) + 2500;
     float TEMPREAL = TEMP/10;
-    //----------------------------Initialize the pressure sensor----------------------------
-    if (!init_PAir) {
-        PAir = PCOMP * 750.06 / 10000; // mbar*10 -> mmHg === ((mbar/10)/1000)*750/06
-        init_PAir = true;
-        Serial.println("Initialize PAir variable");
-    }
-    //----------------------------Calculate Depth----------------------------
-    float PCOMPHG = PCOMP * 750.06 / 10000; // mbar*10 -> mmHg === ((mbar/10)/1000)*750/06  
-    Depth = (PCOMPHG-PAir)*(pHG/pH2O)/10;
-        
-    //----------------------------print Depth----------------------------
+    float PCOMPHG = PCOMP * 750.06 / 10000; // mbar*10 -> mmHg === ((mbar/10)/1000)*750/06
+    float Depth = (PCOMPHG-PAir)*(pHG/pH2O)/10;
+
     Serial.print("Compensated pressure in mmHg = ");
     Serial.println(PCOMPHG);
     Serial.print("Depth in cm = ");
     Serial.println(Depth);
-
-    //----------------------------get Gyroscope Value----------------------------
-    mpu.getMotion6(&ax, &ay, &az, &gx, &gy, &gz);
-    valx = map(ax, -17000, 17000, 0, 179);
-    valy = map(ay, -17000, 17000, 0, 179);
-    valz = map(az, -17000, 17000, 0, 179);
-    Serial.print("axis x = ") ;
-    Serial.print(valx) ;
-    Serial.print(" axis y = ") ;
-    Serial.print(valy) ;
-    Serial.print(" axis z = ") ;
-    Serial.println(valz) ;
-
-    //---------------------------- main Control----------------------------
-    unsigned long currentTime = millis();
-    unsigned long timeDifference = currentTime - previousTime;
-
-    //--------gyro error--------
-
-
-    //--------depth error--------
-    err = DepthTarget - Depth;
-    // derivative = (err - lasterr)/(time-lasttime);
-    der = (err - Lasterr)/(timeDifference);
-    previousTime = currentTime;
-    Lasterr = err;
-
-    //---------------------------- Control Gyro ----------------------------
-    //-----------------------------pump 1 control gyro------------------------------------
-    controlP1 = float((kp * err)+(kd * der));
-
-    int PWM1 = map(abs(controlP1),0,190,140,255); //PWM value for pump1
-
-    if (controlP1 >= 0) {
-        digitalWrite(pump1Pin1, HIGH); //water in
-        digitalWrite(pump1Pin2, LOW);
-        ledcWrite(pwmChannelPump1, PWM1);
-        Serial.print("Pump1_IN with PWM: ");
-        Serial.println(PWM1);
-    } 
-    else {
-        digitalWrite(pump1Pin1, LOW); //water out
-        digitalWrite(pump1Pin2, HIGH);
-        ledcWrite(pwmChannelPump1, PWM1);
-        Serial.print("Pump1_OUT with PWM: ");
-        Serial.println(PWM1);
-    }
-
-    //-----------------------------pump 2 control gyro------------------------------------
-
-    //-----------------------------pump 3 control gyro------------------------------------
-
-    //-----------------------------pump 4 control gyro------------------------------------
-    
-    //---------------------------- Control depth----------------------------
-    //-----------------------------pump 1 control depth------------------------------------
-
-    //-----------------------------pump 2 control depth------------------------------------
-
-    //-----------------------------pump 3 control depth------------------------------------
-
-    //-----------------------------pump 4 control depth------------------------------------
-
-    Serial.print("low_lim:");
-    Serial.print(low); // To freeze the lower limit
-    Serial.print(",");
-    Serial.print("high_lim:");
-    Serial.print(high); // To freeze the upper limit
-    Serial.print(",");
-    Serial.print("depth_err:");
-    Serial.print(err);
-    Serial.print(",");
-    Serial.print("Depth:");
-    Serial.print(Depth);
-    Serial.print(",");
-    Serial.print("Depth target:");
-    Serial.println(DepthTarget);
-    Serial.println("##############################");
-
-    delay(200);
+    delay(100);
 }
-
