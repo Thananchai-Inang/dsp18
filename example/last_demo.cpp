@@ -34,8 +34,8 @@ void resetsensor() {
 //----------------------------Control parameters----------------------------
 float kp = 6; //kp for depth
 float kd = 1; //kd for depth
-float kp_gyro1,kp_gyro2,kp_gyro3,kp_gyro4 = 6; //kp for gyro 1,2,3,4
-float kd_gyro1,kd_gyro2, kd_gyro3, kd_gyro4 = 1; //kd for gyro 1,2,3,4
+float kp_gyro1 = 6, kp_gyro2 = 6, kp_gyro3 = 6, kp_gyro4 = 6; //kp for gyro 1,2,3,4
+float kd_gyro1 = 1, kd_gyro2 = 1, kd_gyro3 = 1, kd_gyro4 = 1; //kd for gyro 1,2,3,4
 float err;
 float Lasterr = 0;
 float der;
@@ -43,7 +43,7 @@ float Depth;
 //gyro control parameters
 float err1, err2, err3, err4; //Propotional term
 float der1, der2, der3, der4; //Derivatives term
-float Lasterr1, Lasterr2, Lasterr3, Lasterr4 = 0; //for PD control
+float Lasterr1 = 0, Lasterr2 = 0, Lasterr3 = 0, Lasterr4 = 0; //for PD control
 
 float DepthTarget = 20;////////define target///////////
 float LastDepth = 0;
@@ -295,7 +295,7 @@ void loop() {
     if (gyro_condition == false){
         //-----------------------------pump 1 control gyro------------------------------------
         controlP1 = float((kp_gyro1 * err1)+(kd_gyro1 * der1));
-        int PWM1 = map(abs(controlP1),0,190,140,255); //change pump1 PWM value 
+        int PWM1 = map(abs(controlP1),0,190,150,255); //change pump1 PWM value 
         if (controlP1 >= 0) {
             digitalWrite(pump1Pin1, HIGH); //water in
             digitalWrite(pump1Pin2, LOW);
@@ -313,7 +313,7 @@ void loop() {
 
         //-----------------------------pump 2 control gyro------------------------------------
         controlP2 = float((kp_gyro2 * err2)+(kd_gyro2 * der2));
-        int PWM2 = map(abs(controlP2),0,190,140,255); //change pump2 PWM value 
+        int PWM2 = map(abs(controlP2),0,190,150,255); //change pump2 PWM value 
         if (controlP2 >= 0) {
             digitalWrite(pump2Pin1, HIGH); //water in
             digitalWrite(pump2Pin2, LOW);
@@ -331,7 +331,7 @@ void loop() {
 
         //-----------------------------pump 3 control gyro------------------------------------
         controlP3 = float((kp_gyro3 * err3)+(kd_gyro3 * der3));
-        int PWM3 = map(abs(controlP3),0,190,140,255); //change pump3 PWM value 
+        int PWM3 = map(abs(controlP3),0,190,150,255); //change pump3 PWM value 
         if (controlP3 >= 0) {
             digitalWrite(pump3Pin1, HIGH); //water in
             digitalWrite(pump3Pin2, LOW);
@@ -349,7 +349,7 @@ void loop() {
 
         //-----------------------------pump 4 control gyro------------------------------------
         controlP4 = float((kp_gyro4 * err4)+(kd_gyro4 * der4));
-        int PWM4 = map(abs(controlP4),0,190,140,255); //change pump4 PWM value 
+        int PWM4 = map(abs(controlP4),0,190,150,255); //change pump4 PWM value 
         if (controlP4 >= 0) {
             digitalWrite(pump4Pin1, HIGH); //water in
             digitalWrite(pump4Pin2, LOW);
@@ -370,7 +370,7 @@ void loop() {
         //---------------------------- Control depth----------------------------
         controlPall = float((kp * err)+(kd * der));
         //-----------------------------pump 1,2,3,4 control depth------------------------------------
-        int PWM_all = map(abs(controlPall),0,190,140,255); //change all pump PWM value 
+        int PWM_all = map(abs(controlPall),0,190,145,255); //change all pump PWM value 
         if (controlPall >= 0) {
             //water in all pump
             //pump 1 water_in enable
@@ -420,9 +420,9 @@ void loop() {
     }    
     
     //change gyro_condition if it is satisfied
-    // if (){
-    //     gyro_condition = true;
-    // }
+    if (abs(controlP1) < 30 && abs(controlP2) < 30 && abs(controlP3) < 30 && abs(controlP4) < 30){
+        gyro_condition = true;
+    }
 
     Serial.print("low_lim:");
     Serial.print(low); // To freeze the lower limit
@@ -438,7 +438,7 @@ void loop() {
     Serial.print(",");
     Serial.print("Depth target:");
     Serial.println(DepthTarget);
-    Serial.println("##############################");
+    
     Serial.print("ControlPall:");
     Serial.print(controlPall);
     Serial.print("ControlP1:");
@@ -449,6 +449,7 @@ void loop() {
     Serial.print(controlP3);
     Serial.print("ControlP4:");
     Serial.print(controlP4);
+    Serial.println("##############################");
 
     delay(200);
 }
