@@ -49,7 +49,7 @@ float DepthTarget = 20;////////define target///////////
 float LastDepth = 0;
 unsigned long previousTime = 0;
 
-bool gyro_condition = false; //-> after 3-axis condition satisfied this equals 1
+int gyro_condition = 0; //-> after 3-axis condition satisfied this equals 1
 
 //plotter
 int low = 0;
@@ -292,7 +292,7 @@ void loop() {
     Lasterr = err;
 
     //---------------------------- Control Gyro ----------------------------
-    if (gyro_condition == false){
+    if (gyro_condition < 50){
         //-----------------------------pump 1 control gyro------------------------------------
         controlP1 = float((kp_gyro1 * err1)+(kd_gyro1 * der1));
         int PWM1 = map(abs(controlP1),0,190,150,255); //change pump1 PWM value 
@@ -421,7 +421,12 @@ void loop() {
     
     //change gyro_condition if it is satisfied
     if (abs(controlP1) < 30 && abs(controlP2) < 30 && abs(controlP3) < 30 && abs(controlP4) < 30){
-        gyro_condition = true;
+        gyro_condition += 1;
+        //reset every balance control
+        controlP1 = 0;
+        controlP2 = 0;
+        controlP3 = 0;
+        controlP4 = 0;
     }
 
     Serial.print("low_lim:");
@@ -448,7 +453,11 @@ void loop() {
     Serial.print("ControlP3:");
     Serial.print(controlP3);
     Serial.print("ControlP4:");
-    Serial.print(controlP4);
+    Serial.println(controlP4);
+    Serial.print("ControlP4:");
+
+    Serial.print("gyro_cond:");
+    Serial.println(gyro_condition);
     Serial.println("##############################");
 
     delay(200);
