@@ -292,7 +292,7 @@ void loop() {
     Lasterr = err;
 
     //---------------------------- Control Gyro ----------------------------
-    if (gyro_condition < 50){
+    if (gyro_condition < 30){
         //-----------------------------pump 1 control gyro------------------------------------
         controlP1 = float((kp_gyro1 * err1)+(kd_gyro1 * der1));
         int PWM1 = map(abs(controlP1),0,190,150,255); //change pump1 PWM value 
@@ -367,6 +367,11 @@ void loop() {
 
     }
     else{
+        //reset every balance control
+            controlP1 = 0;
+            controlP2 = 0;
+            controlP3 = 0;
+            controlP4 = 0;
         //---------------------------- Control depth----------------------------
         controlPall = float((kp * err)+(kd * der));
         //-----------------------------pump 1,2,3,4 control depth------------------------------------
@@ -422,11 +427,6 @@ void loop() {
     //change gyro_condition if it is satisfied
     if (abs(controlP1) < 30 && abs(controlP2) < 30 && abs(controlP3) < 30 && abs(controlP4) < 30){
         gyro_condition += 1;
-        //reset every balance control
-        controlP1 = 0;
-        controlP2 = 0;
-        controlP3 = 0;
-        controlP4 = 0;
     }
 
     Serial.print("low_lim:");
