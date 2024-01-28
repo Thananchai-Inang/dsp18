@@ -370,10 +370,6 @@ void loop() {
         //---------------------------- Control depth----------------------------
         controlPall = float((kp * err)+(kd * der));
         //-----------------------------pump 1,2,3,4 control depth------------------------------------
-        // int PWM1 = map(abs(controlPall),0,190,140,255); //change pump1 PWM value 
-        // int PWM2 = map(abs(controlPall),0,190,140,255); //change pump2 PWM value
-        // int PWM3 = map(abs(controlPall),0,190,140,255); //change pump3 PWM value
-        // int PWM4 = map(abs(controlPall),0,190,140,255); //change pump4 PWM value
         int PWM_all = map(abs(controlPall),0,190,140,255); //change all pump PWM value 
         if (controlPall >= 0) {
             //water in all pump
@@ -443,6 +439,16 @@ void loop() {
     Serial.print("Depth target:");
     Serial.println(DepthTarget);
     Serial.println("##############################");
+    Serial.print("ControlPall:");
+    Serial.print(controlPall);
+    Serial.print("ControlP1:");
+    Serial.print(controlP1);
+    Serial.print("ControlP2:");
+    Serial.print(controlP2);
+    Serial.print("ControlP3:");
+    Serial.print(controlP3);
+    Serial.print("ControlP4:");
+    Serial.print(controlP4);
 
     delay(200);
 }
