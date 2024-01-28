@@ -63,8 +63,8 @@ const int pump1PinPWM = 27;
 const int pwmChannelPump1 = 1; //define pump 1 as channel 1
 
 //-----------------------------pump 2 pins------------------------------------
-const int pump2Pin1 = 2;  // IN1 of motor drive R
-const int pump2Pin2 = 4;  // IN2 of motor drive R
+const int pump2Pin1 = 4;  // IN1 of motor drive R
+const int pump2Pin2 = 2;  // IN2 of motor drive R
 const int pump2PinPWM = 15;  
 const int pwmChannelPump2 = 2; //define pump 2 as channel 2
 
@@ -403,14 +403,14 @@ void loop() {
             digitalWrite(pump1Pin1, LOW); //water out
             digitalWrite(pump1Pin2, HIGH);
             //pump 2 water_out enable
-            digitalWrite(pump2Pin1, HIGH); //water in
-            digitalWrite(pump2Pin2, LOW);
+            digitalWrite(pump2Pin1, LOW); //water in
+            digitalWrite(pump2Pin2, HIGH);
             //pump 3 water_out enable
-            digitalWrite(pump3Pin1, HIGH); //water in
-            digitalWrite(pump3Pin2, LOW);
+            digitalWrite(pump3Pin1, LOW); //water in
+            digitalWrite(pump3Pin2, HIGH);
             //pump 4 water_out enable
-            digitalWrite(pump4Pin1, HIGH); //water in
-            digitalWrite(pump4Pin2, LOW);
+            digitalWrite(pump4Pin1, LOW); //water in
+            digitalWrite(pump4Pin2, HIGH);
             //set all pwmChannelPump 
             ledcWrite(pwmChannelPump1, PWM_all);
             ledcWrite(pwmChannelPump2, PWM_all);
