@@ -130,9 +130,9 @@ void setup() {
     //----------------------------Gyroscope setup----------------------------
     Wire.begin();
     Serial.begin(115200);
-    Serial.print("Initialize MPU:");
+    Serial.print("Initialize_MPU:");
     mpu.initialize();
-    Serial.print(mpu.testConnection() ? "Connected" : "Connection failed");
+    Serial.print(mpu.testConnection() ? "Connected" : "Connection_failed");
   }
 
 void loop() {
@@ -236,9 +236,9 @@ void loop() {
     Depth = (PCOMPHG-PAir)*(pHG/pH2O)/10;
         
     //----------------------------print Depth----------------------------
-    Serial.print(" ,Compensated pressure in mmHg = ");
+    Serial.print(" ,Compensated_pressure_in_mmHg= ");
     Serial.print(PCOMPHG);
-    Serial.print(" ,Depth in cm = ");
+    Serial.print(" ,Depth_in_cm = ");
     Serial.print(Depth);
 
     //----------------------------get Gyroscope Value----------------------------
@@ -247,11 +247,11 @@ void loop() {
     valy = map(ay, -17000, 17000, 0, 179);
     valz = map(az, -17000, 17000, 0, 179);
     //print gyro value
-    Serial.print("axis x = ") ;
+    Serial.print("axis_x = ") ;
     Serial.print(valx) ;
-    Serial.print(" axis y = ") ;
+    Serial.print(" axis_y = ") ;
     Serial.print(valy) ;
-    Serial.print(" axis z = ") ;
+    Serial.print(" axis_z = ") ;
     Serial.println(valz) ;
 
     //---------------------------- main Control----------------------------
@@ -297,14 +297,14 @@ void loop() {
             digitalWrite(pump1Pin1, HIGH); //water in
             digitalWrite(pump1Pin2, LOW);
             ledcWrite(pwmChannelPump1, PWM1);
-            Serial.print(" ,Pump1_IN with PWM: ");
+            Serial.print(" ,Pump1_IN_with_PWM: ");
             Serial.print(PWM1);
         } 
         else {
             digitalWrite(pump1Pin1, LOW); //water out
             digitalWrite(pump1Pin2, HIGH);
             ledcWrite(pwmChannelPump1, PWM1);
-            Serial.print(" ,Pump1_OUT with PWM: ");
+            Serial.print(" ,Pump1_OUT_with_PWM: ");
             Serial.print(PWM1);
         }
 
@@ -315,14 +315,14 @@ void loop() {
             digitalWrite(pump2Pin1, HIGH); //water in
             digitalWrite(pump2Pin2, LOW);
             ledcWrite(pwmChannelPump2, PWM2);
-            Serial.print(" ,Pump2_IN with PWM: ");
+            Serial.print(" ,Pump2_IN_with_PWM: ");
             Serial.print(PWM2);
         } 
         else {
             digitalWrite(pump2Pin1, LOW); //water out
             digitalWrite(pump2Pin2, HIGH);
             ledcWrite(pwmChannelPump2, PWM2);
-            Serial.print(" ,Pump2_OUT with PWM: ");
+            Serial.print(" ,Pump2_OUT_with_PWM: ");
             Serial.print(PWM2);
         }
 
@@ -333,14 +333,14 @@ void loop() {
             digitalWrite(pump3Pin1, HIGH); //water in
             digitalWrite(pump3Pin2, LOW);
             ledcWrite(pwmChannelPump3, PWM3);
-            Serial.print(" ,Pump3_IN with PWM: ");
+            Serial.print(" ,Pump3_IN_with_PWM: ");
             Serial.print(PWM3);
         } 
         else {
             digitalWrite(pump3Pin1, LOW); //water out
             digitalWrite(pump3Pin2, HIGH);
             ledcWrite(pwmChannelPump3, PWM1);
-            Serial.print(" ,Pump3_OUT with PWM: ");
+            Serial.print(" ,Pump3_OUT_with_PWM: ");
             Serial.print(PWM3);
         }
 
@@ -351,14 +351,14 @@ void loop() {
             digitalWrite(pump4Pin1, HIGH); //water in
             digitalWrite(pump4Pin2, LOW);
             ledcWrite(pwmChannelPump4, PWM4);
-            Serial.print(" ,Pump4_IN with PWM: ");
+            Serial.print(" ,Pump4_IN_with_PWM: ");
             Serial.print(PWM4);
         } 
         else {
             digitalWrite(pump4Pin1, LOW); //water out
             digitalWrite(pump4Pin2, HIGH);
             ledcWrite(pwmChannelPump4, PWM4);
-            Serial.print(" ,Pump4_OUT with PWM: ");
+            Serial.print(" ,Pump4_OUT_with_PWM: ");
             Serial.print(PWM4);
         }
 
@@ -393,7 +393,7 @@ void loop() {
             ledcWrite(pwmChannelPump3, PWM_all);
             ledcWrite(pwmChannelPump4, PWM_all);
 
-            Serial.print(" ,All Pump IN with PWM: ");
+            Serial.print(" ,All_Pump_IN_with_PWM: ");
             Serial.print(PWM_all);
         } 
         else {
@@ -415,7 +415,7 @@ void loop() {
             ledcWrite(pwmChannelPump3, PWM_all);
             ledcWrite(pwmChannelPump4, PWM_all);
 
-            Serial.print(" ,All Pump OUT with PWM: ");
+            Serial.print(" ,All_Pump_OUT_with_PWM: ");
             Serial.print(PWM_all);
         }
         
@@ -438,7 +438,7 @@ void loop() {
     Serial.print("Depth: ");
     Serial.print(Depth); //depth now
     Serial.print(" ,");
-    Serial.print("Depth target: ");
+    Serial.print("Depth_target: ");
     Serial.print(DepthTarget); //depth target
     
     Serial.print(" ,ControlPall: ");
