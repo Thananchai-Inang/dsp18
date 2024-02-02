@@ -45,7 +45,7 @@ float err1, err2, err3, err4; //Propotional term
 float der1, der2, der3, der4; //Derivatives term
 float Lasterr1 = 0, Lasterr2 = 0, Lasterr3 = 0, Lasterr4 = 0; //for PD control
 
-float DepthTarget = 20;////////define target///////////
+float DepthTarget = 10;////////define target///////////
 float LastDepth = 0;
 unsigned long previousTime = 0;
 
@@ -292,7 +292,7 @@ void loop() {
     Lasterr = err;
 
     //---------------------------- Control Gyro ----------------------------
-    if (gyro_condition < 30){
+    if (gyro_condition < 20){
         //-----------------------------pump 1 control gyro------------------------------------
         controlP1 = float((kp_gyro1 * err1)+(kd_gyro1 * der1));
         int PWM1 = map(abs(controlP1),0,190,150,255); //change pump1 PWM value 

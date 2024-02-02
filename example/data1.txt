@@ -1,0 +1,3836 @@
+ *  Executing task: platformio device monitor --port /dev/cu.wchusbserial140 
+
+--- Terminal on /dev/cu.wchusbserial140 | 115200 8-N-1
+--- Available filters and text transformations: colorize, debug, default, direct, esp32_exception_decoder, hexlify, log2file, nocontrol, printable, send_on_enter, time
+--- More details at https://bit.ly/pio-monitor-filters
+--- Quit: Ctrl+C | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 89 axis y = 87 axis z = 176
+Pump1_IN with PWM: 156
+Pump2_IN with PWM: 163
+Pump3_OUT with PWM: 163
+Pump4_OUT with PWM: 156
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:0.00ControlP1:12.01ControlP2:24.00ControlP3:-24.00ControlP4:-12.01
+ControlP4:gyro_cond:5
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 91 axis y = 86 axis z = 176
+Pump1_IN with PWM: 166
+Pump2_IN with PWM: 159
+Pump3_OUT with PWM: 159
+Pump4_OUT with PWM: 166
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:0.00ControlP1:30.01ControlP2:18.00ControlP3:-18.00ControlP4:-30.01
+ControlP4:gyro_cond:5
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 89 axis y = 87 axis z = 177
+Pump1_IN with PWM: 156
+Pump2_IN with PWM: 163
+Pump3_OUT with PWM: 163
+Pump4_OUT with PWM: 156
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:0.00ControlP1:11.99ControlP2:24.00ControlP3:-24.00ControlP4:-11.99
+ControlP4:gyro_cond:6
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 90 axis y = 87 axis z = 176
+Pump1_IN with PWM: 159
+Pump2_IN with PWM: 159
+Pump3_OUT with PWM: 159
+Pump4_OUT with PWM: 159
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:0.00ControlP1:18.00ControlP2:18.00ControlP3:-18.00ControlP4:-18.00
+ControlP4:gyro_cond:7
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 176
+Pump1_IN with PWM: 159
+Pump2_IN with PWM: 159
+Pump3_OUT with PWM: 159
+Pump4_OUT with PWM: 159
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:0.00ControlP1:18.00ControlP2:18.00ControlP3:-18.00ControlP4:-18.00
+ControlP4:gyro_cond:8
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 88 axis z = 175
+Pump1_IN with PWM: 152
+Pump2_IN with PWM: 159
+Pump3_OUT with PWM: 159
+Pump4_OUT with PWM: 152
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:0.00ControlP1:5.99ControlP2:18.00ControlP3:-18.00ControlP4:-5.99
+ControlP4:gyro_cond:9
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 89 axis y = 88 axis z = 175
+Pump1_IN with PWM: 153
+Pump2_IN with PWM: 159
+Pump3_OUT with PWM: 159
+Pump4_OUT with PWM: 153
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:0.00ControlP1:6.00ControlP2:18.00ControlP3:-18.00ControlP4:-6.00
+ControlP4:gyro_cond:10
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 87 axis z = 177
+Pump1_IN with PWM: 163
+Pump2_IN with PWM: 156
+Pump3_OUT with PWM: 156
+Pump4_OUT with PWM: 163
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:0.00ControlP1:24.01ControlP2:12.00ControlP3:-12.00ControlP4:-24.01
+ControlP4:gyro_cond:11
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 91 axis y = 88 axis z = 174
+Pump1_IN with PWM: 159
+Pump2_IN with PWM: 152
+Pump3_OUT with PWM: 152
+Pump4_OUT with PWM: 159
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:0.00ControlP1:18.00ControlP2:6.00ControlP3:-6.00ControlP4:-18.00
+ControlP4:gyro_cond:12
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 91 axis y = 88 axis z = 175
+Pump1_IN with PWM: 159
+Pump2_IN with PWM: 153
+Pump3_OUT with PWM: 153
+Pump4_OUT with PWM: 159
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:0.00ControlP1:18.00ControlP2:6.00ControlP3:-6.00ControlP4:-18.00
+ControlP4:gyro_cond:13
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 88 axis z = 175
+Pump1_IN with PWM: 156
+Pump2_IN with PWM: 156
+Pump3_OUT with PWM: 156
+Pump4_OUT with PWM: 156
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:0.00ControlP1:12.00ControlP2:12.00ControlP3:-12.00ControlP4:-12.00
+ControlP4:gyro_cond:14
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 179
+Pump1_IN with PWM: 159
+Pump2_IN with PWM: 159
+Pump3_OUT with PWM: 159
+Pump4_OUT with PWM: 159
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:0.00ControlP1:18.00ControlP2:18.00ControlP3:-18.00ControlP4:-18.00
+ControlP4:gyro_cond:15
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 90 axis y = 87 axis z = 176
+Pump1_IN with PWM: 159
+Pump2_IN with PWM: 159
+Pump3_OUT with PWM: 159
+Pump4_OUT with PWM: 159
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:0.00ControlP1:18.00ControlP2:18.00ControlP3:-18.00ControlP4:-18.00
+ControlP4:gyro_cond:16
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 88 axis z = 175
+Pump1_IN with PWM: 156
+Pump2_IN with PWM: 156
+Pump3_OUT with PWM: 156
+Pump4_OUT with PWM: 156
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:0.00ControlP1:12.00ControlP2:12.00ControlP3:-12.00ControlP4:-12.00
+ControlP4:gyro_cond:17
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 88 axis z = 175
+Pump1_IN with PWM: 156
+Pump2_IN with PWM: 156
+Pump3_OUT with PWM: 156
+Pump4_OUT with PWM: 156
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:0.00ControlP1:12.00ControlP2:12.00ControlP3:-12.00ControlP4:-12.00
+ControlP4:gyro_cond:18
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 87 axis z = 176
+Pump1_IN with PWM: 163
+Pump2_IN with PWM: 156
+Pump3_OUT with PWM: 156
+Pump4_OUT with PWM: 163
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:0.00ControlP1:24.01ControlP2:12.00ControlP3:-12.00ControlP4:-24.01
+ControlP4:gyro_cond:19
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 89 axis y = 88 axis z = 177
+Pump1_IN with PWM: 152
+Pump2_IN with PWM: 159
+Pump3_OUT with PWM: 159
+Pump4_OUT with PWM: 152
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:0.00ControlP1:5.99ControlP2:18.00ControlP3:-18.00ControlP4:-5.99
+ControlP4:gyro_cond:20
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 92 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.42ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:21
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:22
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 88 axis y = 88 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:23
+##############################
+Compensated pressure in mmHg = 735.28
+Depth in cm = 0.29
+axis x = 90 axis y = 86 axis z = 177
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.71,Depth:0.29,Depth target:10.00
+ControlPall:58.24ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:24
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 91 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.42ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:25
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 90 axis y = 88 axis z = 176
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:58.83ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:26
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 88 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:27
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:28
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:29
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:30
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 92 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:31
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:32
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:33
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:34
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:35
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 86 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:36
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:37
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 88 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:38
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 86 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:39
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 88 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:40
+##############################
+Compensated pressure in mmHg = 735.43
+Depth in cm = 0.49
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.51,Depth:0.49,Depth target:10.00
+ControlPall:57.07ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:41
+##############################
+Compensated pressure in mmHg = 736.03
+Depth in cm = 1.27
+axis x = 88 axis y = 88 axis z = 176
+All Pump IN with PWM: 175
+low_lim:0,high_lim:40,depth_err:8.73,Depth:1.27,Depth target:10.00
+ControlPall:52.39ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:42
+##############################
+Compensated pressure in mmHg = 736.48
+Depth in cm = 1.85
+axis x = 91 axis y = 88 axis z = 176
+All Pump IN with PWM: 172
+low_lim:0,high_lim:40,depth_err:8.15,Depth:1.85,Depth target:10.00
+ControlPall:48.88ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:43
+##############################
+Compensated pressure in mmHg = 736.71
+Depth in cm = 2.15
+axis x = 88 axis y = 86 axis z = 176
+All Pump IN with PWM: 172
+low_lim:0,high_lim:40,depth_err:7.85,Depth:2.15,Depth target:10.00
+ControlPall:47.13ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:44
+##############################
+Compensated pressure in mmHg = 736.63
+Depth in cm = 2.05
+axis x = 88 axis y = 88 axis z = 175
+All Pump IN with PWM: 172
+low_lim:0,high_lim:40,depth_err:7.95,Depth:2.05,Depth target:10.00
+ControlPall:47.71ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:45
+##############################
+Compensated pressure in mmHg = 737.01
+Depth in cm = 2.54
+axis x = 87 axis y = 87 axis z = 177
+All Pump IN with PWM: 170
+low_lim:0,high_lim:40,depth_err:7.46,Depth:2.54,Depth target:10.00
+ControlPall:44.79ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:46
+##############################
+Compensated pressure in mmHg = 737.68
+Depth in cm = 3.41
+axis x = 89 axis y = 89 axis z = 175
+All Pump IN with PWM: 167
+low_lim:0,high_lim:40,depth_err:6.59,Depth:3.41,Depth target:10.00
+ControlPall:39.52ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:47
+##############################
+Compensated pressure in mmHg = 737.38
+Depth in cm = 3.02
+axis x = 91 axis y = 87 axis z = 180
+All Pump IN with PWM: 168
+low_lim:0,high_lim:40,depth_err:6.98,Depth:3.02,Depth target:10.00
+ControlPall:41.86ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:48
+##############################
+Compensated pressure in mmHg = 736.71
+Depth in cm = 2.15
+axis x = 90 axis y = 88 axis z = 172
+All Pump IN with PWM: 172
+low_lim:0,high_lim:40,depth_err:7.85,Depth:2.15,Depth target:10.00
+ControlPall:47.13ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:49
+##############################
+Compensated pressure in mmHg = 735.66
+Depth in cm = 0.78
+axis x = 92 axis y = 88 axis z = 174
+All Pump IN with PWM: 176
+low_lim:0,high_lim:40,depth_err:9.22,Depth:0.78,Depth target:10.00
+ControlPall:55.32ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:50
+##############################
+Compensated pressure in mmHg = 735.43
+Depth in cm = 0.49
+axis x = 89 axis y = 88 axis z = 175
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.51,Depth:0.49,Depth target:10.00
+ControlPall:57.08ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:51
+##############################
+Compensated pressure in mmHg = 735.36
+Depth in cm = 0.39
+axis x = 90 axis y = 85 axis z = 179
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.61,Depth:0.39,Depth target:10.00
+ControlPall:57.66ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:52
+##############################
+Compensated pressure in mmHg = 735.28
+Depth in cm = 0.29
+axis x = 89 axis y = 88 axis z = 177
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.71,Depth:0.29,Depth target:10.00
+ControlPall:58.25ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:53
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 89 axis y = 87 axis z = 176
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:58.83ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:54
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 90 axis y = 88 axis z = 173
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:58.83ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:55
+##############################
+Compensated pressure in mmHg = 735.28
+Depth in cm = 0.29
+axis x = 92 axis y = 88 axis z = 178
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.71,Depth:0.29,Depth target:10.00
+ControlPall:58.24ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:56
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 91 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.42ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:57
+##############################
+Compensated pressure in mmHg = 735.81
+Depth in cm = 0.98
+axis x = 90 axis y = 87 axis z = 178
+All Pump IN with PWM: 176
+low_lim:0,high_lim:40,depth_err:9.02,Depth:0.98,Depth target:10.00
+ControlPall:54.15ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:58
+##############################
+Compensated pressure in mmHg = 736.18
+Depth in cm = 1.46
+axis x = 91 axis y = 88 axis z = 177
+All Pump IN with PWM: 174
+low_lim:0,high_lim:40,depth_err:8.54,Depth:1.46,Depth target:10.00
+ControlPall:51.22ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:59
+##############################
+Compensated pressure in mmHg = 736.63
+Depth in cm = 2.05
+axis x = 89 axis y = 88 axis z = 176
+All Pump IN with PWM: 172
+low_lim:0,high_lim:40,depth_err:7.95,Depth:2.05,Depth target:10.00
+ControlPall:47.71ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:60
+##############################
+Compensated pressure in mmHg = 737.23
+Depth in cm = 2.83
+axis x = 90 axis y = 88 axis z = 176
+All Pump IN with PWM: 169
+low_lim:0,high_lim:40,depth_err:7.17,Depth:2.83,Depth target:10.00
+ControlPall:43.03ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:61
+##############################
+Compensated pressure in mmHg = 737.46
+Depth in cm = 3.12
+axis x = 88 axis y = 87 axis z = 175
+All Pump IN with PWM: 168
+low_lim:0,high_lim:40,depth_err:6.88,Depth:3.12,Depth target:10.00
+ControlPall:41.28ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:62
+##############################
+Compensated pressure in mmHg = 737.98
+Depth in cm = 3.80
+axis x = 89 axis y = 85 axis z = 175
+All Pump IN with PWM: 166
+low_lim:0,high_lim:40,depth_err:6.20,Depth:3.80,Depth target:10.00
+ControlPall:37.18ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:63
+##############################
+Compensated pressure in mmHg = 738.96
+Depth in cm = 5.07
+axis x = 90 axis y = 87 axis z = 175
+All Pump IN with PWM: 161
+low_lim:0,high_lim:40,depth_err:4.93,Depth:5.07,Depth target:10.00
+ControlPall:29.57ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:64
+##############################
+Compensated pressure in mmHg = 739.78
+Depth in cm = 6.14
+axis x = 90 axis y = 84 axis z = 174
+All Pump IN with PWM: 158
+low_lim:0,high_lim:40,depth_err:3.86,Depth:6.14,Depth target:10.00
+ControlPall:23.14ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:65
+##############################
+Compensated pressure in mmHg = 740.23
+Depth in cm = 6.73
+axis x = 88 axis y = 86 axis z = 178
+All Pump IN with PWM: 156
+low_lim:0,high_lim:40,depth_err:3.27,Depth:6.73,Depth target:10.00
+ControlPall:19.63ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:66
+##############################
+Compensated pressure in mmHg = 740.61
+Depth in cm = 7.22
+axis x = 87 axis y = 86 axis z = 178
+All Pump IN with PWM: 154
+low_lim:0,high_lim:40,depth_err:2.78,Depth:7.22,Depth target:10.00
+ControlPall:16.70ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:67
+##############################
+Compensated pressure in mmHg = 739.56
+Depth in cm = 5.85
+axis x = 86 axis y = 87 axis z = 182
+All Pump IN with PWM: 158
+low_lim:0,high_lim:40,depth_err:4.15,Depth:5.85,Depth target:10.00
+ControlPall:24.90ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:68
+##############################
+Compensated pressure in mmHg = 737.23
+Depth in cm = 2.83
+axis x = 90 axis y = 86 axis z = 171
+All Pump IN with PWM: 169
+low_lim:0,high_lim:40,depth_err:7.17,Depth:2.83,Depth target:10.00
+ControlPall:43.04ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:69
+##############################
+Compensated pressure in mmHg = 735.81
+Depth in cm = 0.98
+axis x = 91 axis y = 87 axis z = 176
+All Pump IN with PWM: 176
+low_lim:0,high_lim:40,depth_err:9.02,Depth:0.98,Depth target:10.00
+ControlPall:54.16ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:70
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 88 axis y = 87 axis z = 181
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:71
+##############################
+Compensated pressure in mmHg = 735.28
+Depth in cm = 0.29
+axis x = 92 axis y = 88 axis z = 173
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.71,Depth:0.29,Depth target:10.00
+ControlPall:58.24ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:72
+##############################
+Compensated pressure in mmHg = 735.28
+Depth in cm = 0.29
+axis x = 91 axis y = 85 axis z = 179
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.71,Depth:0.29,Depth target:10.00
+ControlPall:58.24ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:73
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 87 axis z = 179
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:74
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 90 axis y = 86 axis z = 173
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:58.83ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:75
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:76
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 90 axis y = 88 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:77
+##############################
+Compensated pressure in mmHg = 735.28
+Depth in cm = 0.29
+axis x = 89 axis y = 86 axis z = 178
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.71,Depth:0.29,Depth target:10.00
+ControlPall:58.24ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:78
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 88 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:79
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 88 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:80
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 88 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:81
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 89 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:82
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 86 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:83
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 88 axis y = 87 axis z = 176
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:58.83ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:84
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:85
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:86
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 88 axis y = 87 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:87
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:88
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:89
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 180
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:90
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 91 axis y = 87 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:91
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 90 axis y = 89 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:92
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:93
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:94
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 88 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:95
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 90 axis y = 88 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:96
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 92 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:97
+##############################
+##############################
+Compensated pressure in mmHg = 735.43
+Depth in cm = 0.49
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.51,Depth:0.49,Depth target:10.00
+ControlPall:57.07ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:41
+##############################
+Compensated pressure in mmHg = 736.03
+Depth in cm = 1.27
+axis x = 88 axis y = 88 axis z = 176
+All Pump IN with PWM: 175
+low_lim:0,high_lim:40,depth_err:8.73,Depth:1.27,Depth target:10.00
+ControlPall:52.39ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:42
+##############################
+Compensated pressure in mmHg = 736.48
+Depth in cm = 1.85
+axis x = 91 axis y = 88 axis z = 176
+All Pump IN with PWM: 172
+low_lim:0,high_lim:40,depth_err:8.15,Depth:1.85,Depth target:10.00
+ControlPall:48.88ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:43
+##############################
+Compensated pressure in mmHg = 736.71
+Depth in cm = 2.15
+axis x = 88 axis y = 86 axis z = 176
+All Pump IN with PWM: 172
+low_lim:0,high_lim:40,depth_err:7.85,Depth:2.15,Depth target:10.00
+ControlPall:47.13ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:44
+##############################
+Compensated pressure in mmHg = 736.63
+Depth in cm = 2.05
+axis x = 88 axis y = 88 axis z = 175
+All Pump IN with PWM: 172
+low_lim:0,high_lim:40,depth_err:7.95,Depth:2.05,Depth target:10.00
+ControlPall:47.71ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:45
+##############################
+Compensated pressure in mmHg = 737.01
+Depth in cm = 2.54
+axis x = 87 axis y = 87 axis z = 177
+All Pump IN with PWM: 170
+low_lim:0,high_lim:40,depth_err:7.46,Depth:2.54,Depth target:10.00
+ControlPall:44.79ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:46
+##############################
+Compensated pressure in mmHg = 737.68
+Depth in cm = 3.41
+axis x = 89 axis y = 89 axis z = 175
+All Pump IN with PWM: 167
+low_lim:0,high_lim:40,depth_err:6.59,Depth:3.41,Depth target:10.00
+ControlPall:39.52ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:47
+##############################
+Compensated pressure in mmHg = 737.38
+Depth in cm = 3.02
+axis x = 91 axis y = 87 axis z = 180
+All Pump IN with PWM: 168
+low_lim:0,high_lim:40,depth_err:6.98,Depth:3.02,Depth target:10.00
+ControlPall:41.86ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:48
+##############################
+Compensated pressure in mmHg = 736.71
+Depth in cm = 2.15
+axis x = 90 axis y = 88 axis z = 172
+All Pump IN with PWM: 172
+low_lim:0,high_lim:40,depth_err:7.85,Depth:2.15,Depth target:10.00
+ControlPall:47.13ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:49
+##############################
+Compensated pressure in mmHg = 735.66
+Depth in cm = 0.78
+axis x = 92 axis y = 88 axis z = 174
+All Pump IN with PWM: 176
+low_lim:0,high_lim:40,depth_err:9.22,Depth:0.78,Depth target:10.00
+ControlPall:55.32ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:50
+##############################
+Compensated pressure in mmHg = 735.43
+Depth in cm = 0.49
+axis x = 89 axis y = 88 axis z = 175
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.51,Depth:0.49,Depth target:10.00
+ControlPall:57.08ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:51
+##############################
+Compensated pressure in mmHg = 735.36
+Depth in cm = 0.39
+axis x = 90 axis y = 85 axis z = 179
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.61,Depth:0.39,Depth target:10.00
+ControlPall:57.66ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:52
+##############################
+Compensated pressure in mmHg = 735.28
+Depth in cm = 0.29
+axis x = 89 axis y = 88 axis z = 177
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.71,Depth:0.29,Depth target:10.00
+ControlPall:58.25ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:53
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 89 axis y = 87 axis z = 176
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:58.83ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:54
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 90 axis y = 88 axis z = 173
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:58.83ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:55
+##############################
+Compensated pressure in mmHg = 735.28
+Depth in cm = 0.29
+axis x = 92 axis y = 88 axis z = 178
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.71,Depth:0.29,Depth target:10.00
+ControlPall:58.24ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:56
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 91 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.42ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:57
+##############################
+Compensated pressure in mmHg = 735.81
+Depth in cm = 0.98
+axis x = 90 axis y = 87 axis z = 178
+All Pump IN with PWM: 176
+low_lim:0,high_lim:40,depth_err:9.02,Depth:0.98,Depth target:10.00
+ControlPall:54.15ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:58
+##############################
+Compensated pressure in mmHg = 736.18
+Depth in cm = 1.46
+axis x = 91 axis y = 88 axis z = 177
+All Pump IN with PWM: 174
+low_lim:0,high_lim:40,depth_err:8.54,Depth:1.46,Depth target:10.00
+ControlPall:51.22ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:59
+##############################
+Compensated pressure in mmHg = 736.63
+Depth in cm = 2.05
+axis x = 89 axis y = 88 axis z = 176
+All Pump IN with PWM: 172
+low_lim:0,high_lim:40,depth_err:7.95,Depth:2.05,Depth target:10.00
+ControlPall:47.71ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:60
+##############################
+Compensated pressure in mmHg = 737.23
+Depth in cm = 2.83
+axis x = 90 axis y = 88 axis z = 176
+All Pump IN with PWM: 169
+low_lim:0,high_lim:40,depth_err:7.17,Depth:2.83,Depth target:10.00
+ControlPall:43.03ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:61
+##############################
+Compensated pressure in mmHg = 737.46
+Depth in cm = 3.12
+axis x = 88 axis y = 87 axis z = 175
+All Pump IN with PWM: 168
+low_lim:0,high_lim:40,depth_err:6.88,Depth:3.12,Depth target:10.00
+ControlPall:41.28ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:62
+##############################
+Compensated pressure in mmHg = 737.98
+Depth in cm = 3.80
+axis x = 89 axis y = 85 axis z = 175
+All Pump IN with PWM: 166
+low_lim:0,high_lim:40,depth_err:6.20,Depth:3.80,Depth target:10.00
+ControlPall:37.18ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:63
+##############################
+Compensated pressure in mmHg = 738.96
+Depth in cm = 5.07
+axis x = 90 axis y = 87 axis z = 175
+All Pump IN with PWM: 161
+low_lim:0,high_lim:40,depth_err:4.93,Depth:5.07,Depth target:10.00
+ControlPall:29.57ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:64
+##############################
+Compensated pressure in mmHg = 739.78
+Depth in cm = 6.14
+axis x = 90 axis y = 84 axis z = 174
+All Pump IN with PWM: 158
+low_lim:0,high_lim:40,depth_err:3.86,Depth:6.14,Depth target:10.00
+ControlPall:23.14ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:65
+##############################
+Compensated pressure in mmHg = 740.23
+Depth in cm = 6.73
+axis x = 88 axis y = 86 axis z = 178
+All Pump IN with PWM: 156
+low_lim:0,high_lim:40,depth_err:3.27,Depth:6.73,Depth target:10.00
+ControlPall:19.63ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:66
+##############################
+Compensated pressure in mmHg = 740.61
+Depth in cm = 7.22
+axis x = 87 axis y = 86 axis z = 178
+All Pump IN with PWM: 154
+low_lim:0,high_lim:40,depth_err:2.78,Depth:7.22,Depth target:10.00
+ControlPall:16.70ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:67
+##############################
+Compensated pressure in mmHg = 739.56
+Depth in cm = 5.85
+axis x = 86 axis y = 87 axis z = 182
+All Pump IN with PWM: 158
+low_lim:0,high_lim:40,depth_err:4.15,Depth:5.85,Depth target:10.00
+ControlPall:24.90ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:68
+##############################
+Compensated pressure in mmHg = 737.23
+Depth in cm = 2.83
+axis x = 90 axis y = 86 axis z = 171
+All Pump IN with PWM: 169
+low_lim:0,high_lim:40,depth_err:7.17,Depth:2.83,Depth target:10.00
+ControlPall:43.04ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:69
+##############################
+Compensated pressure in mmHg = 735.81
+Depth in cm = 0.98
+axis x = 91 axis y = 87 axis z = 176
+All Pump IN with PWM: 176
+low_lim:0,high_lim:40,depth_err:9.02,Depth:0.98,Depth target:10.00
+ControlPall:54.16ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:70
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 88 axis y = 87 axis z = 181
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:71
+##############################
+Compensated pressure in mmHg = 735.28
+Depth in cm = 0.29
+axis x = 92 axis y = 88 axis z = 173
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.71,Depth:0.29,Depth target:10.00
+ControlPall:58.24ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:72
+##############################
+Compensated pressure in mmHg = 735.28
+Depth in cm = 0.29
+axis x = 91 axis y = 85 axis z = 179
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.71,Depth:0.29,Depth target:10.00
+ControlPall:58.24ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:73
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 87 axis z = 179
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:74
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 90 axis y = 86 axis z = 173
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:58.83ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:75
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:76
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 90 axis y = 88 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:77
+##############################
+Compensated pressure in mmHg = 735.28
+Depth in cm = 0.29
+axis x = 89 axis y = 86 axis z = 178
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.71,Depth:0.29,Depth target:10.00
+ControlPall:58.24ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:78
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 88 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:79
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 88 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:80
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 88 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:81
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 89 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:82
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 86 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:83
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 88 axis y = 87 axis z = 176
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:58.83ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:84
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:85
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:86
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 88 axis y = 87 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:87
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:88
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:89
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 180
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:90
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 91 axis y = 87 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:91
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 90 axis y = 89 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:92
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:93
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:94
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 88 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:95
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 90 axis y = 88 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:96
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 92 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:97
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 92 axis y = 88 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:98
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 91 axis y = 87 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:99
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 88 axis y = 87 axis z = 176
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:58.83ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:100
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 88 axis y = 87 axis z = 178
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:101
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:102
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 88 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:103
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 88 axis y = 87 axis z = 173
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:104
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:105
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 88 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:106
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:107
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 88 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:108
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:109
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 89 axis z = 172
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:110
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:111
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 87 axis z = 179
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:112
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 91 axis y = 87 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:113
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 88 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:114
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:115
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 85 axis z = 179
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:116
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:117
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 88 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:118
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:119
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 87 axis z = 173
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:120
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 91 axis y = 88 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:121
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 86 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:122
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:123
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 87 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:124
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 88 axis y = 88 axis z = 173
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:125
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 86 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:126
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 91 axis y = 88 axis z = 174
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:127
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 179
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:128
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 88 axis y = 89 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:129
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 88 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:130
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:131
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 88 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:132
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:133
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:134
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 91 axis y = 88 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:135
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:136
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 92 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:137
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 88 axis z = 172
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:138
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:139
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 91 axis y = 89 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:140
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 93 axis y = 86 axis z = 178
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:141
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 88 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:142
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 88 axis y = 88 axis z = 171
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:143
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:144
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:145
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:146
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:147
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:148
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 87 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:149
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:150
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 87 axis z = 178
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:151
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 91 axis y = 88 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:152
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 87 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:153
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:154
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 179
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:155
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 88 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:156
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 181
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:157
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:158
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 91 axis y = 87 axis z = 178
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:159
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:160
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 90 axis y = 87 axis z = 179
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:161
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 90 axis y = 88 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:162
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 88 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:163
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 88 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:164
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:165
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 92 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:166
+##############################
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:131
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 88 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:132
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:133
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:134
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 91 axis y = 88 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:135
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:136
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 92 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:137
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 88 axis z = 172
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:138
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:139
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 91 axis y = 89 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:140
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 93 axis y = 86 axis z = 178
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:141
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 88 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:142
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 88 axis y = 88 axis z = 171
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:143
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:144
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:145
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:146
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:147
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:148
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 87 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:149
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:150
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 87 axis z = 178
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:151
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 91 axis y = 88 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:152
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 87 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:153
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:154
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 179
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:155
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 88 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:156
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 181
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:157
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:158
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 91 axis y = 87 axis z = 178
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:159
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:160
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 90 axis y = 87 axis z = 179
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:161
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 90 axis y = 88 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:162
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 88 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:163
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 88 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:164
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:165
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 92 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:166
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 88 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:167
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:168
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 86 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:169
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 88 axis z = 178
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:170
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:171
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:172
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 89 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:173
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 91 axis y = 87 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:174
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:175
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 88 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:176
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:177
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 87 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:178
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 87 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:179
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 88 axis y = 87 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:180
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 88 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:181
+##############################
+Compensated pressure in mmHg = 734.76
+Depth in cm = -0.39
+axis x = 90 axis y = 88 axis z = 174
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.39,Depth:-0.39,Depth target:10.00
+ControlPall:62.34ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:182
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 86 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:183
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:184
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:185
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 90 axis y = 87 axis z = 174
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.75ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:186
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:187
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 88 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:188
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 91 axis y = 88 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:189
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 92 axis y = 88 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:190
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:191
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 91 axis y = 89 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:192
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 92 axis y = 87 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:193
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:194
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:195
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:196
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 88 axis y = 87 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:197
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 88 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:198
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 86 axis z = 178
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:199
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 86 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:200
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:201
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 87 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:202
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 88 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:203
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 86 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:204
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 87 axis y = 87 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:205
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 88 axis y = 86 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:206
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 87 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:207
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 88 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:208
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 87 axis z = 179
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:209
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:210
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:211
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:212
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 89 axis y = 87 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:213
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 88 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:214
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 91 axis y = 87 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:215
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:216
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 89 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:217
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 88 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:218
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:219
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 88 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:220
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 88 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:221
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:222
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 93 axis y = 87 axis z = 173
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:223
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:224
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 88 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:225
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 91 axis y = 87 axis z = 179
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:226
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 86 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:227
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:228
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 88 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:229
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:230
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 88 axis y = 86 axis z = 179
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:231
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 87 axis z = 179
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:232
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:233
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 87 axis y = 88 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:234
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:235
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 87 axis z = 179
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:236
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 88 axis y = 87 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:237
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:238
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 87 axis y = 87 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:239
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 88 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:240
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:241
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 86 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:242
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 88 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:243
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 87 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:244
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 88 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:245
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 90 axis y = 88 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:246
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 86 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:247
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:248
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 88 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:249
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 91 axis y = 88 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:250
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:251
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:252
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 90 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:253
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 88 axis y = 89 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:254
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 88 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:255
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 90 axis y = 88 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:256
+##############################
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 88 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:220
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 88 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:221
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:222
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 93 axis y = 87 axis z = 173
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:223
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:224
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 88 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:225
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 91 axis y = 87 axis z = 179
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:226
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 86 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:227
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:228
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 88 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:229
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:230
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 88 axis y = 86 axis z = 179
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:231
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 87 axis z = 179
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:232
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:233
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 87 axis y = 88 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:234
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:235
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 87 axis z = 179
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:236
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 88 axis y = 87 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:237
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:238
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 87 axis y = 87 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:239
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 88 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:240
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:241
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 86 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:242
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 88 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:243
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 87 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:244
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 88 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:245
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 90 axis y = 88 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:246
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 86 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:247
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:248
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 88 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:249
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 91 axis y = 88 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:250
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:251
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:252
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 90 axis y = 88 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:253
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 88 axis y = 89 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:254
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 88 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:255
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 90 axis y = 88 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:256
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 93 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:257
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:258
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 89 axis z = 174
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:259
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 88 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:260
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 88 axis y = 87 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:261
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 86 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:262
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 88 axis y = 87 axis z = 174
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:263
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:264
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:265
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 88 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:266
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:267
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 88 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:268
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 87 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:269
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 86 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:270
+##############################
+Compensated pressure in mmHg = 734.76
+Depth in cm = -0.39
+axis x = 91 axis y = 87 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.39,Depth:-0.39,Depth target:10.00
+ControlPall:62.34ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:271
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 88 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:272
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 88 axis y = 87 axis z = 173
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:273
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 88 axis y = 88 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:274
+##############################
+Compensated pressure in mmHg = 734.76
+Depth in cm = -0.39
+axis x = 88 axis y = 87 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.39,Depth:-0.39,Depth target:10.00
+ControlPall:62.34ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:275
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 88 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:276
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:277
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 178
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:278
+##############################
+Compensated pressure in mmHg = 734.68
+Depth in cm = -0.49
+axis x = 90 axis y = 88 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.49,Depth:-0.49,Depth target:10.00
+ControlPall:62.93ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:279
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 88 axis y = 89 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:280
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 89 axis y = 89 axis z = 173
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:281
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 90 axis y = 86 axis z = 176
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:282
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 88 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:283
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 91 axis y = 87 axis z = 180
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:284
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:285
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 88 axis y = 86 axis z = 179
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:286
+##############################
+Compensated pressure in mmHg = 734.76
+Depth in cm = -0.39
+axis x = 91 axis y = 87 axis z = 177
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.39,Depth:-0.39,Depth target:10.00
+ControlPall:62.34ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:287
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:288
+##############################
+Compensated pressure in mmHg = 734.91
+Depth in cm = -0.19
+axis x = 89 axis y = 88 axis z = 178
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.19,Depth:-0.19,Depth target:10.00
+ControlPall:61.17ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:289
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 91 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:290
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 93 axis y = 89 axis z = 175
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:291
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 88 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:292
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 88 axis y = 87 axis z = 176
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:58.83ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:293
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 90 axis y = 87 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.42ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:294
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 91 axis y = 87 axis z = 176
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:58.83ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:295
+##############################
+Compensated pressure in mmHg = 735.36
+Depth in cm = 0.39
+axis x = 92 axis y = 87 axis z = 176
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.61,Depth:0.39,Depth target:10.00
+ControlPall:57.66ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:296
+##############################
+Compensated pressure in mmHg = 735.36
+Depth in cm = 0.39
+axis x = 91 axis y = 88 axis z = 175
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.61,Depth:0.39,Depth target:10.00
+ControlPall:57.66ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:297
+##############################
+Compensated pressure in mmHg = 735.28
+Depth in cm = 0.29
+axis x = 89 axis y = 87 axis z = 176
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.71,Depth:0.29,Depth target:10.00
+ControlPall:58.25ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:298
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 89 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.59ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:299
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 90 axis y = 87 axis z = 179
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:300
+##############################
+Compensated pressure in mmHg = 734.98
+Depth in cm = -0.10
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.10,Depth:-0.10,Depth target:10.00
+ControlPall:60.58ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:301
+##############################
+Compensated pressure in mmHg = 734.83
+Depth in cm = -0.29
+axis x = 87 axis y = 87 axis z = 178
+All Pump IN with PWM: 180
+low_lim:0,high_lim:40,depth_err:10.29,Depth:-0.29,Depth target:10.00
+ControlPall:61.76ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:302
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 92 axis y = 86 axis z = 175
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:303
+##############################
+Compensated pressure in mmHg = 735.06
+Depth in cm = 0.00
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:10.00,Depth:0.00,Depth target:10.00
+ControlPall:60.00ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:304
+##############################
+Compensated pressure in mmHg = 735.13
+Depth in cm = 0.10
+axis x = 90 axis y = 87 axis z = 174
+All Pump IN with PWM: 179
+low_lim:0,high_lim:40,depth_err:9.90,Depth:0.10,Depth target:10.00
+ControlPall:59.41ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:305
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 89 axis y = 88 axis z = 176
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:58.83ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:306
+##############################
+Compensated pressure in mmHg = 735.28
+Depth in cm = 0.29
+axis x = 90 axis y = 88 axis z = 179
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.71,Depth:0.29,Depth target:10.00
+ControlPall:58.24ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:307
+##############################
+Compensated pressure in mmHg = 735.36
+Depth in cm = 0.39
+axis x = 88 axis y = 88 axis z = 176
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.61,Depth:0.39,Depth target:10.00
+ControlPall:57.66ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:308
+##############################
+Compensated pressure in mmHg = 735.28
+Depth in cm = 0.29
+axis x = 89 axis y = 87 axis z = 178
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.71,Depth:0.29,Depth target:10.00
+ControlPall:58.25ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:309
+##############################
+Compensated pressure in mmHg = 735.28
+Depth in cm = 0.29
+axis x = 90 axis y = 87 axis z = 178
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.71,Depth:0.29,Depth target:10.00
+ControlPall:58.24ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:310
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:58.83ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:311
+##############################
+Compensated pressure in mmHg = 735.21
+Depth in cm = 0.20
+axis x = 89 axis y = 88 axis z = 176
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.80,Depth:0.20,Depth target:10.00
+ControlPall:58.83ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:312
+##############################
+Compensated pressure in mmHg = 735.36
+Depth in cm = 0.39
+axis x = 89 axis y = 88 axis z = 176
+All Pump IN with PWM: 178
+low_lim:0,high_lim:40,depth_err:9.61,Depth:0.39,Depth target:10.00
+ControlPall:57.66ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:313
+##############################
+Compensated pressure in mmHg = 735.58
+Depth in cm = 0.68
+axis x = 84 axis y = 93 axis z = 181
+All Pump IN with PWM: 176
+low_lim:0,high_lim:40,depth_err:9.32,Depth:0.68,Depth target:10.00
+ControlPall:55.90ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:314
+##############################
+Compensated pressure in mmHg = 735.58
+Depth in cm = 0.68
+axis x = 90 axis y = 89 axis z = 178
+All Pump IN with PWM: 176
+low_lim:0,high_lim:40,depth_err:9.32,Depth:0.68,Depth target:10.00
+ControlPall:55.90ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:315
+##############################
+Compensated pressure in mmHg = 735.73
+Depth in cm = 0.88
+axis x = 90 axis y = 87 axis z = 174
+All Pump IN with PWM: 176
+low_lim:0,high_lim:40,depth_err:9.12,Depth:0.88,Depth target:10.00
+ControlPall:54.73ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:316
+##############################
+Compensated pressure in mmHg = 735.66
+Depth in cm = 0.78
+axis x = 89 axis y = 88 axis z = 176
+All Pump IN with PWM: 176
+low_lim:0,high_lim:40,depth_err:9.22,Depth:0.78,Depth target:10.00
+ControlPall:55.32ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:317
+##############################
+Compensated pressure in mmHg = 735.81
+Depth in cm = 0.98
+axis x = 91 axis y = 87 axis z = 177
+All Pump IN with PWM: 176
+low_lim:0,high_lim:40,depth_err:9.02,Depth:0.98,Depth target:10.00
+ControlPall:54.15ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:318
+##############################
+Compensated pressure in mmHg = 735.73
+Depth in cm = 0.88
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 176
+low_lim:0,high_lim:40,depth_err:9.12,Depth:0.88,Depth target:10.00
+ControlPall:54.73ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:319
+##############################
+Compensated pressure in mmHg = 735.88
+Depth in cm = 1.07
+axis x = 89 axis y = 89 axis z = 175
+All Pump IN with PWM: 175
+low_lim:0,high_lim:40,depth_err:8.93,Depth:1.07,Depth target:10.00
+ControlPall:53.56ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:320
+##############################
+Compensated pressure in mmHg = 735.66
+Depth in cm = 0.78
+axis x = 88 axis y = 87 axis z = 176
+All Pump IN with PWM: 176
+low_lim:0,high_lim:40,depth_err:9.22,Depth:0.78,Depth target:10.00
+ControlPall:55.32ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:321
+##############################
+Compensated pressure in mmHg = 735.88
+Depth in cm = 1.07
+axis x = 88 axis y = 88 axis z = 174
+All Pump IN with PWM: 175
+low_lim:0,high_lim:40,depth_err:8.93,Depth:1.07,Depth target:10.00
+ControlPall:53.56ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:322
+##############################
+Compensated pressure in mmHg = 736.18
+Depth in cm = 1.46
+axis x = 90 axis y = 87 axis z = 176
+All Pump IN with PWM: 174
+low_lim:0,high_lim:40,depth_err:8.54,Depth:1.46,Depth target:10.00
+ControlPall:51.22ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:323
+##############################
+Compensated pressure in mmHg = 736.41
+Depth in cm = 1.76
+axis x = 88 axis y = 87 axis z = 179
+All Pump IN with PWM: 173
+low_lim:0,high_lim:40,depth_err:8.24,Depth:1.76,Depth target:10.00
+ControlPall:49.47ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:324
+##############################
+Compensated pressure in mmHg = 736.48
+Depth in cm = 1.85
+axis x = 89 axis y = 87 axis z = 177
+All Pump IN with PWM: 172
+low_lim:0,high_lim:40,depth_err:8.15,Depth:1.85,Depth target:10.00
+ControlPall:48.88ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:325
+##############################
+Compensated pressure in mmHg = 736.71
+Depth in cm = 2.15
+axis x = 90 axis y = 87 axis z = 177
+All Pump IN with PWM: 172
+low_lim:0,high_lim:40,depth_err:7.85,Depth:2.15,Depth target:10.00
+ControlPall:47.13ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:326
+##############################
+Compensated pressure in mmHg = 737.01
+Depth in cm = 2.54
+axis x = 90 axis y = 88 axis z = 175
+All Pump IN with PWM: 170
+low_lim:0,high_lim:40,depth_err:7.46,Depth:2.54,Depth target:10.00
+ControlPall:44.79ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:327
+##############################
+Compensated pressure in mmHg = 737.31
+Depth in cm = 2.93
+axis x = 88 axis y = 87 axis z = 174
+All Pump IN with PWM: 169
+low_lim:0,high_lim:40,depth_err:7.07,Depth:2.93,Depth target:10.00
+ControlPall:42.45ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:328
+##############################
+Compensated pressure in mmHg = 737.98
+Depth in cm = 3.80
+axis x = 89 axis y = 88 axis z = 174
+All Pump IN with PWM: 166
+low_lim:0,high_lim:40,depth_err:6.20,Depth:3.80,Depth target:10.00
+ControlPall:37.18ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:329
+##############################
+Compensated pressure in mmHg = 737.83
+Depth in cm = 3.61
+axis x = 88 axis y = 86 axis z = 178
+All Pump IN with PWM: 167
+low_lim:0,high_lim:40,depth_err:6.39,Depth:3.61,Depth target:10.00
+ControlPall:38.35ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:330
+##############################
+Compensated pressure in mmHg = 738.06
+Depth in cm = 3.90
+axis x = 89 axis y = 87 axis z = 175
+All Pump IN with PWM: 165
+low_lim:0,high_lim:40,depth_err:6.10,Depth:3.90,Depth target:10.00
+ControlPall:36.60ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:331
+##############################
+Compensated pressure in mmHg = 738.43
+Depth in cm = 4.39
+axis x = 88 axis y = 87 axis z = 175
+All Pump IN with PWM: 164
+low_lim:0,high_lim:40,depth_err:5.61,Depth:4.39,Depth target:10.00
+ControlPall:33.67ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:332
+##############################
+Compensated pressure in mmHg = 737.46
+Depth in cm = 3.12
+axis x = 90 axis y = 87 axis z = 181
+All Pump IN with PWM: 168
+low_lim:0,high_lim:40,depth_err:6.88,Depth:3.12,Depth target:10.00
+ControlPall:41.28ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:333
+##############################
+Compensated pressure in mmHg = 736.56
+Depth in cm = 1.95
+axis x = 92 axis y = 88 axis z = 169
+All Pump IN with PWM: 172
+low_lim:0,high_lim:40,depth_err:8.05,Depth:1.95,Depth target:10.00
+ControlPall:48.30ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:334
+##############################
+Compensated pressure in mmHg = 735.96
+Depth in cm = 1.17
+axis x = 90 axis y = 88 axis z = 181
+All Pump IN with PWM: 175
+low_lim:0,high_lim:40,depth_err:8.83,Depth:1.17,Depth target:10.00
+ControlPall:52.98ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:335
+##############################
+Compensated pressure in mmHg = 735.88
+Depth in cm = 1.07
+axis x = 91 axis y = 87 axis z = 176
+All Pump IN with PWM: 175
+low_lim:0,high_lim:40,depth_err:8.93,Depth:1.07,Depth target:10.00
+ControlPall:53.56ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:336
+##############################
+Compensated pressure in mmHg = 735.88
+Depth in cm = 1.07
+axis x = 91 axis y = 88 axis z = 174
+All Pump IN with PWM: 175
+low_lim:0,high_lim:40,depth_err:8.93,Depth:1.07,Depth target:10.00
+ControlPall:53.56ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:337
+##############################
+Compensated pressure in mmHg = 735.58
+Depth in cm = 0.68
+axis x = 90 axis y = 87 axis z = 178
+All Pump IN with PWM: 176
+low_lim:0,high_lim:40,depth_err:9.32,Depth:0.68,Depth target:10.00
+ControlPall:55.91ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:338
+##############################
+Compensated pressure in mmHg = 736.11
+Depth in cm = 1.37
+axis x = 89 axis y = 87 axis z = 173
+All Pump IN with PWM: 174
+low_lim:0,high_lim:40,depth_err:8.63,Depth:1.37,Depth target:10.00
+ControlPall:51.81ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:339
+##############################
+Compensated pressure in mmHg = 737.23
+Depth in cm = 2.83
+axis x = 88 axis y = 88 axis z = 175
+All Pump IN with PWM: 169
+low_lim:0,high_lim:40,depth_err:7.17,Depth:2.83,Depth target:10.00
+ControlPall:43.03ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:340
+##############################
+Compensated pressure in mmHg = 737.68
+Depth in cm = 3.41
+axis x = 87 axis y = 88 axis z = 178
+All Pump IN with PWM: 167
+low_lim:0,high_lim:40,depth_err:6.59,Depth:3.41,Depth target:10.00
+ControlPall:39.52ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:341
+##############################
+Compensated pressure in mmHg = 738.96
+Depth in cm = 5.07
+axis x = 85 axis y = 89 axis z = 173
+All Pump IN with PWM: 161
+low_lim:0,high_lim:40,depth_err:4.93,Depth:5.07,Depth target:10.00
+ControlPall:29.57ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:342
+##############################
+Compensated pressure in mmHg = 739.33
+Depth in cm = 5.56
+axis x = 83 axis y = 88 axis z = 176
+All Pump IN with PWM: 160
+low_lim:0,high_lim:40,depth_err:4.44,Depth:5.56,Depth target:10.00
+ControlPall:26.65ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:343
+##############################
+Compensated pressure in mmHg = 739.18
+Depth in cm = 5.36
+axis x = 84 axis y = 88 axis z = 180
+All Pump IN with PWM: 160
+low_lim:0,high_lim:40,depth_err:4.64,Depth:5.36,Depth target:10.00
+ControlPall:27.82ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:344
+##############################
+Compensated pressure in mmHg = 737.76
+Depth in cm = 3.51
+axis x = 87 axis y = 87 axis z = 176
+All Pump IN with PWM: 167
+low_lim:0,high_lim:40,depth_err:6.49,Depth:3.51,Depth target:10.00
+ControlPall:38.94ControlP1:0.00ControlP2:0.00ControlP3:0.00ControlP4:0.00
+ControlP4:gyro_cond:345
+##############################
