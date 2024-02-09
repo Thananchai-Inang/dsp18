@@ -1,0 +1,339 @@
+11:54:11:620 -> 730.11Depth_in_cm = ,0.00[ 24831][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:11:628 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:11:630 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,85
+11:54:11:914 -> 730.11Depth_in_cm = ,0.00[ 25125][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:11:922 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:11:924 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,86
+11:54:12:208 -> 730.11Depth_in_cm = ,0.00[ 25419][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:12:216 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:12:219 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,87
+11:54:12:502 -> 730.11Depth_in_cm = ,0.00[ 25713][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:12:510 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:12:513 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,88
+11:54:12:796 -> 730.11Depth_in_cm = ,0.00[ 26007][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:12:804 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:12:807 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,89
+11:54:13:090 -> 730.03Depth_in_cm = ,-0.10[ 26301][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:13:098 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:13:101 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,90
+11:54:13:384 -> 730.11Depth_in_cm = ,0.00[ 26595][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:13:392 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:13:395 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,91
+11:54:13:678 -> 730.18Depth_in_cm = ,0.10[ 26889][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:13:686 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:13:689 -> , All_IN_PWM: ,213, depth_err: ,19.90, Depth: ,0.10,Depth_target: ,20.00, CPall: ,119.41, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,92
+11:54:13:972 -> 730.11Depth_in_cm = ,0.00[ 27183][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:13:980 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:13:982 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,93
+11:54:14:266 -> 730.11Depth_in_cm = ,0.00[ 27477][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:14:274 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:14:276 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,94
+11:54:14:560 -> 730.11Depth_in_cm = ,0.00[ 27771][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:14:568 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:14:571 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,95
+11:54:14:854 -> 730.11Depth_in_cm = ,0.00[ 28065][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:14:862 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:14:865 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,96
+11:54:15:148 -> 730.11Depth_in_cm = ,0.00[ 28359][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:15:156 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:15:158 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,97
+11:54:15:442 -> 730.03Depth_in_cm = ,-0.10[ 28653][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:15:450 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:15:453 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,98
+11:54:15:736 -> 730.11Depth_in_cm = ,0.00[ 28947][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:15:744 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:15:747 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,99
+11:54:16:030 -> 730.03Depth_in_cm = ,-0.10[ 29241][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:16:038 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:16:041 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,100
+11:54:16:324 -> 730.11Depth_in_cm = ,0.00[ 29535][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:16:332 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:16:335 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,101
+11:54:16:618 -> 730.11Depth_in_cm = ,0.00[ 29829][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:16:626 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:16:628 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,102
+11:54:16:912 -> 730.11Depth_in_cm = ,0.00[ 30123][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:16:920 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:16:922 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,103
+11:54:17:206 -> 730.11Depth_in_cm = ,0.00[ 30417][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:17:214 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:17:217 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,104
+11:54:17:500 -> 730.11Depth_in_cm = ,0.00[ 30711][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:17:508 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:17:511 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,105
+11:54:17:794 -> 730.03Depth_in_cm = ,-0.10[ 31005][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:17:802 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:17:804 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,106
+11:54:18:088 -> 730.11Depth_in_cm = ,0.00[ 31299][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:18:096 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:18:098 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,107
+11:54:18:382 -> 730.11Depth_in_cm = ,0.00[ 31593][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:18:390 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:18:392 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,108
+11:54:18:676 -> 730.11Depth_in_cm = ,0.00[ 31887][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:18:684 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:18:686 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,109
+11:54:18:970 -> 730.03Depth_in_cm = ,-0.10[ 32181][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:18:978 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:18:981 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,110
+11:54:19:264 -> 730.03Depth_in_cm = ,-0.10[ 32475][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:19:272 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:19:275 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,111
+11:54:19:558 -> 730.03Depth_in_cm = ,-0.10[ 32769][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:19:566 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:19:569 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,112
+11:54:19:852 -> 730.18Depth_in_cm = ,0.10[ 33063][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:19:860 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:19:863 -> , All_IN_PWM: ,213, depth_err: ,19.90, Depth: ,0.10,Depth_target: ,20.00, CPall: ,119.41, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,113
+11:54:20:146 -> 730.11Depth_in_cm = ,0.00[ 33357][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:20:154 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:20:157 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,114
+11:54:20:441 -> 730.03Depth_in_cm = ,-0.10[ 33651][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:20:448 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:20:451 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,115
+11:54:20:734 -> 730.11Depth_in_cm = ,0.00[ 33945][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:20:742 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:20:745 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,116
+11:54:21:028 -> 730.11Depth_in_cm = ,0.00[ 34239][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:21:036 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:21:038 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,117
+11:54:21:322 -> 730.11Depth_in_cm = ,0.00[ 34533][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:21:330 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:21:333 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,118
+11:54:21:616 -> 730.11Depth_in_cm = ,0.00[ 34827][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:21:624 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:21:627 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,119
+11:54:21:910 -> 730.11Depth_in_cm = ,0.00[ 35121][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:21:918 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:21:920 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,120
+11:54:22:204 -> 730.11Depth_in_cm = ,0.00[ 35415][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:22:212 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:22:214 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,121
+11:54:22:498 -> 730.11Depth_in_cm = ,0.00[ 35709][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:22:506 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:22:508 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,122
+11:54:22:792 -> 730.11Depth_in_cm = ,0.00[ 36003][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:22:800 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:22:803 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,123
+11:54:23:086 -> 730.11Depth_in_cm = ,0.00[ 36297][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:23:094 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:23:097 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,124
+11:54:23:380 -> 730.11Depth_in_cm = ,0.00[ 36591][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:23:388 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:23:390 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,125
+11:54:23:674 -> 730.11Depth_in_cm = ,0.00[ 36885][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:23:682 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:23:684 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,126
+11:54:23:968 -> 730.03Depth_in_cm = ,-0.10[ 37179][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:23:976 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:23:978 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,127
+11:54:24:262 -> 730.11Depth_in_cm = ,0.00[ 37473][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:24:270 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:24:272 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,128
+11:54:24:556 -> 730.03Depth_in_cm = ,-0.10[ 37767][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:24:565 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:24:567 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,129
+11:54:24:850 -> 730.11Depth_in_cm = ,0.00[ 38061][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:24:858 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:24:861 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,130
+11:54:25:144 -> 730.11Depth_in_cm = ,0.00[ 38355][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:25:152 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:25:155 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,131
+11:54:25:438 -> 730.11Depth_in_cm = ,0.00[ 38649][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:25:446 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:25:449 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,132
+11:54:25:732 -> 730.11Depth_in_cm = ,0.00[ 38943][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:25:740 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:25:742 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,133
+11:54:26:025 -> 730.03Depth_in_cm = ,-0.10[ 39237][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:26:034 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:26:036 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,134
+11:54:26:320 -> 730.11Depth_in_cm = ,0.00[ 39531][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:26:328 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:26:330 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,135
+11:54:26:614 -> 730.03Depth_in_cm = ,-0.10[ 39825][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:26:622 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:26:624 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,136
+11:54:26:908 -> 730.11Depth_in_cm = ,0.00[ 40119][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:26:916 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:26:919 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,137
+11:54:27:202 -> 730.03Depth_in_cm = ,-0.10[ 40413][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:27:210 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:27:213 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,138
+11:54:27:496 -> 730.11Depth_in_cm = ,0.00[ 40707][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:27:504 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:27:506 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,139
+11:54:27:790 -> 730.11Depth_in_cm = ,0.00[ 41001][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:27:798 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:27:801 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,140
+11:54:28:084 -> 730.03Depth_in_cm = ,-0.10[ 41295][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:28:092 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:28:094 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,141
+11:54:28:378 -> 730.03Depth_in_cm = ,-0.10[ 41589][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:28:386 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:28:390 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,142
+11:54:28:672 -> 730.11Depth_in_cm = ,0.00[ 41883][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:28:680 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:28:683 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,143
+11:54:28:966 -> 730.11Depth_in_cm = ,0.00[ 42177][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:28:974 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:28:977 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,144
+11:54:29:260 -> 730.03Depth_in_cm = ,-0.10[ 42471][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:29:268 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:29:271 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,145
+11:54:29:554 -> 730.11Depth_in_cm = ,0.00[ 42765][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:29:562 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:29:565 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,146
+11:54:29:848 -> 730.11Depth_in_cm = ,0.00[ 43059][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:29:856 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:29:859 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,147
+11:54:30:142 -> 730.03Depth_in_cm = ,-0.10[ 43353][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:30:150 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:30:152 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,148
+11:54:30:436 -> 730.03Depth_in_cm = ,-0.10[ 43647][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:30:444 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:30:447 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,149
+11:54:30:730 -> 730.03Depth_in_cm = ,-0.10[ 43941][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:30:738 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:30:740 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,150
+11:54:31:024 -> 730.11Depth_in_cm = ,0.00[ 44235][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:31:032 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:31:035 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,151
+11:54:31:318 -> 730.11Depth_in_cm = ,0.00[ 44529][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:31:326 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:31:328 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,152
+11:54:31:612 -> 730.11Depth_in_cm = ,0.00[ 44823][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:31:620 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:31:623 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,153
+11:54:31:906 -> 730.03Depth_in_cm = ,-0.10[ 45117][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:31:914 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:31:917 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,154
+11:54:32:200 -> 730.03Depth_in_cm = ,-0.10[ 45411][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:32:208 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:32:210 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,155
+11:54:32:494 -> 730.11Depth_in_cm = ,0.00[ 45705][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:32:502 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:32:505 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,156
+11:54:32:788 -> 730.03Depth_in_cm = ,-0.10[ 45999][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:32:796 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:32:799 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,157
+11:54:33:082 -> 730.03Depth_in_cm = ,-0.10[ 46293][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:33:090 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:33:092 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,158
+11:54:33:376 -> 730.03Depth_in_cm = ,-0.10[ 46587][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:33:384 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:33:386 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,159
+11:54:33:670 -> 730.03Depth_in_cm = ,-0.10[ 46881][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:33:678 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:33:681 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,160
+11:54:33:964 -> 730.11Depth_in_cm = ,0.00[ 47175][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:33:972 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:33:974 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,161
+11:54:34:258 -> 730.03Depth_in_cm = ,-0.10[ 47469][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:34:266 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:34:268 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,162
+11:54:34:552 -> 730.18Depth_in_cm = ,0.10[ 47763][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:34:560 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:34:563 -> , All_IN_PWM: ,213, depth_err: ,19.90, Depth: ,0.10,Depth_target: ,20.00, CPall: ,119.41, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,163
+11:54:34:846 -> 730.11Depth_in_cm = ,0.00[ 48057][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:34:854 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:34:857 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,164
+11:54:35:140 -> 730.11Depth_in_cm = ,0.00[ 48351][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:35:148 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:35:151 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,165
+11:54:35:434 -> 730.03Depth_in_cm = ,-0.10[ 48645][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:35:442 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:35:445 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,166
+11:54:35:728 -> 730.18Depth_in_cm = ,0.10[ 48939][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:35:736 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:35:738 -> , All_IN_PWM: ,213, depth_err: ,19.90, Depth: ,0.10,Depth_target: ,20.00, CPall: ,119.41, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,167
+11:54:36:022 -> 730.11Depth_in_cm = ,0.00[ 49233][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:36:030 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:36:033 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,168
+11:54:36:316 -> 730.11Depth_in_cm = ,0.00[ 49527][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:36:324 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:36:326 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,169
+11:54:36:610 -> 730.11Depth_in_cm = ,0.00[ 49821][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:36:618 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:36:620 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,170
+11:54:36:904 -> 730.11Depth_in_cm = ,0.00[ 50115][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:36:912 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:36:915 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,171
+11:54:37:198 -> 730.03Depth_in_cm = ,-0.10[ 50409][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:37:206 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:37:208 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,172
+11:54:37:492 -> 730.03Depth_in_cm = ,-0.10[ 50703][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:37:500 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:37:503 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,173
+11:54:37:786 -> 730.11Depth_in_cm = ,0.00[ 50997][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:37:794 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:37:797 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,174
+11:54:38:080 -> 730.03Depth_in_cm = ,-0.10[ 51291][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:38:088 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:38:090 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,175
+11:54:38:374 -> 730.11Depth_in_cm = ,0.00[ 51585][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:38:382 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:38:384 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,176
+11:54:38:667 -> 730.11Depth_in_cm = ,0.00[ 51879][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:38:676 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:38:679 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,177
+11:54:38:962 -> 730.03Depth_in_cm = ,-0.10[ 52173][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:38:970 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:38:972 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,178
+11:54:39:256 -> 730.11Depth_in_cm = ,0.00[ 52467][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:39:264 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:39:267 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,179
+11:54:39:550 -> 730.03Depth_in_cm = ,-0.10[ 52761][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:39:558 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:39:561 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,180
+11:54:39:844 -> 730.11Depth_in_cm = ,0.00[ 53055][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:39:852 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:39:854 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,181
+11:54:40:138 -> 730.03Depth_in_cm = ,-0.10[ 53349][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:40:146 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:40:149 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,182
+11:54:40:432 -> 730.11Depth_in_cm = ,0.00[ 53643][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:40:440 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:40:442 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,183
+11:54:40:726 -> 730.03Depth_in_cm = ,-0.10[ 53937][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:40:734 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:40:737 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,184
+11:54:41:020 -> 730.03Depth_in_cm = ,-0.10[ 54231][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:41:028 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:41:031 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,185
+11:54:41:314 -> 730.03Depth_in_cm = ,-0.10[ 54525][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:41:322 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:41:325 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,186
+11:54:41:608 -> 730.11Depth_in_cm = ,0.00[ 54819][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:41:616 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:41:619 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,187
+11:54:41:902 -> 730.03Depth_in_cm = ,-0.10[ 55113][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:41:910 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:41:913 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,188
+11:54:42:196 -> 730.03Depth_in_cm = ,-0.10[ 55407][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:42:204 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:42:206 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,189
+11:54:42:490 -> 730.03Depth_in_cm = ,-0.10[ 55701][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:42:498 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:42:501 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,190
+11:54:42:784 -> 730.03Depth_in_cm = ,-0.10[ 55995][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:42:792 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:42:794 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,191
+11:54:43:078 -> 730.03Depth_in_cm = ,-0.10[ 56289][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:43:086 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:43:088 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,192
+11:54:43:372 -> 730.11Depth_in_cm = ,0.00[ 56583][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:43:380 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:43:383 -> , All_IN_PWM: ,213, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,193
+11:54:43:666 -> 730.11Depth_in_cm = ,0.00[ 56877][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:43:674 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:43:676 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,194
+11:54:43:960 -> 730.11Depth_in_cm = ,0.00[ 57171][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:43:971 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:43:971 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,195
+11:54:44:254 -> 730.11Depth_in_cm = ,0.00[ 57465][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:44:262 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:44:265 -> , All_IN_PWM: ,214, depth_err: ,20.00, Depth: ,0.00,Depth_target: ,20.00, CPall: ,120.00, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,196
+11:54:44:548 -> 730.03Depth_in_cm = ,-0.10[ 57759][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:54:44:556 -> ,axis_x = ,89,axis_y = ,89,axis_z = ,89
+11:54:44:558 -> , All_IN_PWM: ,214, depth_err: ,20.10, Depth: ,-0.10,Depth_target: ,20.00, CPall: ,120.59, CP1: ,0.00, CP2: ,0.00, CP3: ,0.00, CP4: ,0.00, gyro_cond: ,197
