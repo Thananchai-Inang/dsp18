@@ -1,0 +1,348 @@
+11:31:24:577 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  1961][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:24:588 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:24:591 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 7
+11:31:24:881 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  2265][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:24:892 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:24:895 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 8
+11:31:25:185 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  2569][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:25:196 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:25:199 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 9
+11:31:25:489 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  2873][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:25:500 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:25:503 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 10
+11:31:25:793 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  3177][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:25:804 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:25:807 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 11
+11:31:26:097 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  3481][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:26:108 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:26:111 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 12
+11:31:26:401 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  3785][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:26:412 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:26:415 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 13
+11:31:26:705 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  4089][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:26:716 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:26:719 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 14
+11:31:27:009 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  4393][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:27:020 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:27:023 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 15
+11:31:27:313 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  4697][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:27:324 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:27:327 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 16
+11:31:27:617 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  5001][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:27:628 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:27:631 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 17
+11:31:27:921 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  5305][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:27:932 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:27:935 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 18
+11:31:28:225 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  5609][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:28:236 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:28:239 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 19
+11:31:28:529 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  5913][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:28:540 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:28:543 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 20
+11:31:28:833 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  6217][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:28:844 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:28:847 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 21
+11:31:29:137 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  6521][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:29:148 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:29:151 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 22
+11:31:29:441 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  6825][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:29:452 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:29:455 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 23
+11:31:29:745 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  7129][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:29:756 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:29:759 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 24
+11:31:30:049 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  7433][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:30:060 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:30:063 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 25
+11:31:30:353 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  7737][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:30:364 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:30:367 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 26
+11:31:30:657 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  8041][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:30:668 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:30:671 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 27
+11:31:30:961 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  8345][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:30:972 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:30:975 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 28
+11:31:31:265 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  8649][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:31:276 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:31:279 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 29
+11:31:31:569 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  8953][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:31:580 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:31:583 ->  ,Pump1_IN_with_PWM: 150 ,Pump2_IN_with_PWM: 156 ,Pump3_OUT_with_PWM: 156 ,Pump4_IN_with_PWM: 150 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 0.00 ,ControlP1: 0.00 ,ControlP2: 12.00 ,ControlP3: -12.00 ,ControlP4: 0.00 ,gyro_cond: 30
+11:31:31:873 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  9257][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:31:884 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:31:887 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 31
+11:31:32:167 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  9551][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:32:178 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:32:181 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 32
+11:31:32:461 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[  9845][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:32:472 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:32:475 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 33
+11:31:32:755 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 10139][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:32:766 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:32:769 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 34
+11:31:33:049 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 10433][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:33:060 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:33:063 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 35
+11:31:33:343 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 10727][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:33:354 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:33:357 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 36
+11:31:33:637 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 11021][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:33:648 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:33:651 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 37
+11:31:33:931 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 11315][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:33:942 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:33:945 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 38
+11:31:34:225 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 11609][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:34:236 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:34:239 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 39
+11:31:34:519 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 11903][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:34:530 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:34:533 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 40
+11:31:34:813 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 12197][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:34:824 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:34:827 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 41
+11:31:35:107 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 12491][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:35:118 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:35:121 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 42
+11:31:35:401 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 12785][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:35:412 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:35:415 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 43
+11:31:35:695 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 13079][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:35:706 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:35:709 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 44
+11:31:35:989 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 13373][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:36:000 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:36:003 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 45
+11:31:36:283 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 13667][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:36:294 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:36:297 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 46
+11:31:36:577 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 13961][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:36:588 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:36:591 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 47
+11:31:36:871 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 14255][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:36:882 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:36:885 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 48
+11:31:37:165 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 14549][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:37:176 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:37:179 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 49
+11:31:37:459 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 14843][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:37:470 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:37:473 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 50
+11:31:37:753 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 15137][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:37:764 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:37:767 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 51
+11:31:38:047 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 15431][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:38:058 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:38:061 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 52
+11:31:38:341 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 15725][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:38:352 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:38:355 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 53
+11:31:38:635 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 16019][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:38:646 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:38:649 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 54
+11:31:38:929 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 16313][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:38:940 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:38:943 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 55
+11:31:39:223 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 16607][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:39:234 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:39:237 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 56
+11:31:39:517 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 16901][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:39:528 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:39:531 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 57
+11:31:39:811 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 17195][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:39:822 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:39:825 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 58
+11:31:40:105 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 17489][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:40:116 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:40:119 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 59
+11:31:40:399 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 17783][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:40:410 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:40:413 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 60
+11:31:40:693 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 18077][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:40:704 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:40:707 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 61
+11:31:40:987 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 18371][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:40:998 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:41:001 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 62
+11:31:41:281 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 18665][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:41:292 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:41:295 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 63
+11:31:41:575 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 18959][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:41:586 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:41:589 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 64
+11:31:41:869 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 19253][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:41:880 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:41:883 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 65
+11:31:42:163 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 19547][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:42:174 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:42:177 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 66
+11:31:42:457 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 19841][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:42:468 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:42:471 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 67
+11:31:42:751 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 20135][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:42:762 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:42:765 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 68
+11:31:43:045 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 20429][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:43:056 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:43:059 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 69
+11:31:43:339 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 20723][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:43:350 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:43:353 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 70
+11:31:43:633 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 21017][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:43:644 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:43:647 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 71
+11:31:43:927 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 21311][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:43:938 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:43:941 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 72
+11:31:44:221 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 21605][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:44:232 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:44:235 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 73
+11:31:44:515 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 21899][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:44:526 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:44:529 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 74
+11:31:44:809 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 22193][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:44:820 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:44:823 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 75
+11:31:45:103 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 22487][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:45:114 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:45:117 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 76
+11:31:45:397 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 22781][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:45:408 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:45:411 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 77
+11:31:45:691 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 23075][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:45:702 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:45:705 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 78
+11:31:45:985 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 23369][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:45:996 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:45:999 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 79
+11:31:46:279 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 23663][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:46:290 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:46:293 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 80
+11:31:46:573 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 23957][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:46:584 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:46:587 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 81
+11:31:46:867 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 24251][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:46:879 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:46:881 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 82
+11:31:47:161 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 24545][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:47:172 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:47:175 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 83
+11:31:47:455 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 24839][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:47:466 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:47:469 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 84
+11:31:47:749 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 25133][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:47:760 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:47:763 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 85
+11:31:48:043 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 25427][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:48:054 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:48:057 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 86
+11:31:48:337 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 25721][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:48:348 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:48:351 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 87
+11:31:48:631 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 26015][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:48:642 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:48:645 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 88
+11:31:48:925 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 26309][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:48:936 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:48:939 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 89
+11:31:49:219 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 26603][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:49:230 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:49:233 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 90
+11:31:49:513 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 26897][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:49:524 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:49:527 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 91
+11:31:49:807 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 27191][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:49:818 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:49:821 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 92
+11:31:50:101 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 27485][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:50:112 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:50:115 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 93
+11:31:50:395 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 27779][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:50:406 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:50:409 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 94
+11:31:50:689 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 28073][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:50:703 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:50:704 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 95
+11:31:50:983 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 28367][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:50:994 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:50:997 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 96
+11:31:51:277 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 28661][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:51:288 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:51:291 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 97
+11:31:51:571 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 28955][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:51:582 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:51:585 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 98
+11:31:51:865 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 29249][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:51:876 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:51:879 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 99
+11:31:52:159 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 29543][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:52:170 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:52:173 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 100
+11:31:52:453 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 29837][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:52:464 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:52:467 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 101
+11:31:52:747 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 30131][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:52:758 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:52:761 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 102
+11:31:53:041 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 30425][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:53:052 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:53:055 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 103
+11:31:53:335 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 30719][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:53:346 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:53:348 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 104
+11:31:53:629 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 31013][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:53:640 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:53:643 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 105
+11:31:53:923 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 31307][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:53:934 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:53:937 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 106
+11:31:54:217 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 31601][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:54:228 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:54:231 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 107
+11:31:54:511 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 31895][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:54:522 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:54:525 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 108
+11:31:54:805 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 32189][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:54:816 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:54:819 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 109
+11:31:55:099 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 32483][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:55:110 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:55:112 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 110
+11:31:55:393 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 32777][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:55:404 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:55:407 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 111
+11:31:55:687 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 33071][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:55:698 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:55:701 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 112
+11:31:55:981 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 33365][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:55:992 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:55:994 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 113
+11:31:56:275 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 33659][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:56:286 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:56:288 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 114
+11:31:56:569 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 33953][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:56:580 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:56:583 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 115
+11:31:56:863 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 34247][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:56:874 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:56:877 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 116
+11:31:57:157 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 34541][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:57:168 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:57:171 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 117
+11:31:57:451 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 34835][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:57:462 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:57:464 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 118
+11:31:57:745 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 35129][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:57:756 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:57:759 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 119
+11:31:58:039 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 35423][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:58:050 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:58:053 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 120
+11:31:58:333 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 35717][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:58:344 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:58:347 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 121
+11:31:58:627 ->  ,Compensated_pressure_in_mmHg= 6020.73 ,Depth_in_cm = 0.00[ 36011][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+11:31:58:638 -> axis_x = 89 axis_y = 89 axis_z = 89
+11:31:58:641 ->  ,All_Pump_IN_with_PWM: 214 ,low_lim: 0 ,high_lim: 40 ,depth_err: 20.00 ,Depth: 0.00 ,Depth_target: 20.00 ,ControlPall: 120.00 ,ControlP1: 0.00 ,ControlP2: 0.00 ,ControlP3: 0.00 ,ControlP4: 0.00 ,gyro_cond: 122

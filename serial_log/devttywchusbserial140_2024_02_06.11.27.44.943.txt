@@ -1,0 +1,676 @@
+11:27:44:970 -> ��́x = 89 axis y = 89 axis z = 89
+11:27:45:034 -> Compensated pressure in mmHg = 6020.73
+11:27:45:037 -> Depth in cm = 6881.85
+11:27:45:037 -> axis x = 89 axis y = 89 axis z = 89
+11:27:45:105 -> Compensated pressure in mmHg = 6020.73
+11:27:45:108 -> Depth in cm = 6881.85
+11:27:45:108 -> axis x = 89 axis y = 89 axis z = 89
+11:27:45:176 -> Compensated pressure in mmHg = 6020.73
+11:27:45:179 -> Depth in cm = 6881.85
+11:27:45:179 -> axis x = 89 axis y = 89 axis z = 89
+11:27:45:247 -> Compensated pressure in mmHg = 6020.73
+11:27:45:250 -> Depth in cm = 6881.85
+11:27:45:250 -> axis x = 89 axis y = 89 axis z = 89
+11:27:45:318 -> Compensated pressure in mmHg = 6020.73
+11:27:45:321 -> Depth in cm = 6881.85
+11:27:45:321 -> axis x = 89 axis y = 89 axis z = 89
+11:27:45:389 -> Compensated pressure in mmHg = 6020.73
+11:27:45:392 -> Depth in cm = 6881.85
+11:27:45:392 -> axis x = 89 axis y = 89 axis z = 89
+11:27:45:460 -> Compensated pressure in mmHg = 6020.73
+11:27:45:463 -> Depth in cm = 6881.85
+11:27:45:463 -> axis x = 89 axis y = 89 axis z = 89
+11:27:45:531 -> Compensated pressure in mmHg = 6020.73
+11:27:45:534 -> Depth in cm = 6881.85
+11:27:45:534 -> axis x = 89 axis y = 89 axis z = 89
+11:27:45:602 -> Compensated pressure in mmHg = 6020.73
+11:27:45:605 -> Depth in cm = 6881.85
+11:27:45:605 -> axis x = 89 axis y = 89 axis z = 89
+11:27:45:673 -> Compensated pressure in mmHg = 6020.73
+11:27:45:676 -> Depth in cm = 6881.85
+11:27:45:676 -> axis x = 89 axis y = 89 axis z = 89
+11:27:45:744 -> Compensated pressure in mmHg = 6020.73
+11:27:45:747 -> Depth in cm = 6881.85
+11:27:45:747 -> axis x = 89 axis y = 89 axis z = 89
+11:27:45:815 -> Compensated pressure in mmHg = 6020.73
+11:27:45:818 -> Depth in cm = 6881.85
+11:27:45:818 -> axis x = 89 axis y = 89 axis z = 89
+11:27:45:886 -> Compensated pressure in mmHg = 6020.73
+11:27:45:889 -> Depth in cm = 6881.85
+11:27:45:889 -> axis x = 89 axis y = 89 axis z = 89
+11:27:45:957 -> Compensated pressure in mmHg = 6020.73
+11:27:45:960 -> Depth in cm = 6881.85
+11:27:45:960 -> axis x = 89 axis y = 89 axis z = 89
+11:27:46:028 -> Compensated pressure in mmHg = 6020.73
+11:27:46:031 -> Depth in cm = 6881.85
+11:27:46:031 -> axis x = 89 axis y = 89 axis z = 89
+11:27:46:099 -> Compensated pressure in mmHg = 6020.73
+11:27:46:102 -> Depth in cm = 6881.85
+11:27:46:102 -> axis x = 89 axis y = 89 axis z = 89
+11:27:46:170 -> Compensated pressure in mmHg = 6020.73
+11:27:46:173 -> Depth in cm = 6881.85
+11:27:46:173 -> axis x = 89 axis y = 89 axis z = 89
+11:27:46:241 -> Compensated pressure in mmHg = 6020.73
+11:27:46:244 -> Depth in cm = 6881.85
+11:27:46:244 -> axis x = 89 axis y = 89 axis z = 89
+11:27:46:312 -> Compensated pressure in mmHg = 6020.73
+11:27:46:315 -> Depth in cm = 6881.85
+11:27:46:315 -> axis x = 89 axis y = 89 axis z = 89
+11:27:46:383 -> Compensated pressure in mmHg = 6020.73
+11:27:46:386 -> Depth in cm = 6881.85
+11:27:46:386 -> axis x = 89 axis y = 89 axis z = 89
+11:27:46:454 -> Compensated pressure in mmHg = 6020.73
+11:27:46:457 -> Depth in cm = 6881.85
+11:27:46:457 -> axis x = 89 axis y = 89 axis z = 89
+11:27:46:525 -> Compensated pressure in mmHg = 6020.73
+11:27:46:528 -> Depth in cm = 6881.85
+11:27:46:528 -> axis x = 89 axis y = 89 axis z = 89
+11:27:46:596 -> Compensated pressure in mmHg = 6020.73
+11:27:46:599 -> Depth in cm = 6881.85
+11:27:46:599 -> axis x = 89 axis y = 89 axis z = 89
+11:27:46:667 -> Compensated pressure in mmHg = 6020.73
+11:27:46:670 -> Depth in cm = 6881.85
+11:27:46:670 -> axis x = 89 axis y = 89 axis z = 89
+11:27:46:738 -> Compensated pressure in mmHg = 6020.73
+11:27:46:741 -> Depth in cm = 6881.85
+11:27:46:741 -> axis x = 89 axis y = 89 axis z = 89
+11:27:46:809 -> Compensated pressure in mmHg = 6020.73
+11:27:46:812 -> Depth in cm = 6881.85
+11:27:46:812 -> axis x = 89 axis y = 89 axis z = 89
+11:27:46:880 -> Compensated pressure in mmHg = 6020.73
+11:27:46:883 -> Depth in cm = 6881.85
+11:27:46:883 -> axis x = 89 axis y = 89 axis z = 89
+11:27:46:951 -> Compensated pressure in mmHg = 6020.73
+11:27:46:954 -> Depth in cm = 6881.85
+11:27:46:954 -> axis x = 89 axis y = 89 axis z = 89
+11:27:47:022 -> Compensated pressure in mmHg = 6020.73
+11:27:47:025 -> Depth in cm = 6881.85
+11:27:47:025 -> axis x = 89 axis y = 89 axis z = 89
+11:27:47:093 -> Compensated pressure in mmHg = 6020.73
+11:27:47:096 -> Depth in cm = 6881.85
+11:27:47:096 -> axis x = 89 axis y = 89 axis z = 89
+11:27:47:164 -> Compensated pressure in mmHg = 6020.73
+11:27:47:167 -> Depth in cm = 6881.85
+11:27:47:167 -> axis x = 89 axis y = 89 axis z = 89
+11:27:47:235 -> Compensated pressure in mmHg = 6020.73
+11:27:47:238 -> Depth in cm = 6881.85
+11:27:47:238 -> axis x = 89 axis y = 89 axis z = 89
+11:27:47:306 -> Compensated pressure in mmHg = 6020.73
+11:27:47:309 -> Depth in cm = 6881.85
+11:27:47:309 -> axis x = 89 axis y = 89 axis z = 89
+11:27:47:377 -> Compensated pressure in mmHg = 6020.73
+11:27:47:380 -> Depth in cm = 6881.85
+11:27:47:380 -> axis x = 89 axis y = 89 axis z = 89
+11:27:47:448 -> Compensated pressure in mmHg = 6020.73
+11:27:47:451 -> Depth in cm = 6881.85
+11:27:47:451 -> axis x = 89 axis y = 89 axis z = 89
+11:27:47:519 -> Compensated pressure in mmHg = 6020.73
+11:27:47:522 -> Depth in cm = 6881.85
+11:27:47:522 -> axis x = 89 axis y = 89 axis z = 89
+11:27:47:590 -> Compensated pressure in mmHg = 6020.73
+11:27:47:593 -> Depth in cm = 6881.85
+11:27:47:593 -> axis x = 89 axis y = 89 axis z = 89
+11:27:47:661 -> Compensated pressure in mmHg = 6020.73
+11:27:47:664 -> Depth in cm = 6881.85
+11:27:47:664 -> axis x = 89 axis y = 89 axis z = 89
+11:27:47:732 -> Compensated pressure in mmHg = 6020.73
+11:27:47:735 -> Depth in cm = 6881.85
+11:27:47:735 -> axis x = 89 axis y = 89 axis z = 89
+11:27:47:803 -> Compensated pressure in mmHg = 6020.73
+11:27:47:806 -> Depth in cm = 6881.85
+11:27:47:806 -> axis x = 89 axis y = 89 axis z = 89
+11:27:47:874 -> Compensated pressure in mmHg = 6020.73
+11:27:47:877 -> Depth in cm = 6881.85
+11:27:47:877 -> axis x = 89 axis y = 89 axis z = 89
+11:27:47:945 -> Compensated pressure in mmHg = 6020.73
+11:27:47:948 -> Depth in cm = 6881.85
+11:27:47:948 -> axis x = 89 axis y = 89 axis z = 89
+11:27:48:016 -> Compensated pressure in mmHg = 6020.73
+11:27:48:019 -> Depth in cm = 6881.85
+11:27:48:019 -> axis x = 89 axis y = 89 axis z = 89
+11:27:48:087 -> Compensated pressure in mmHg = 6020.73
+11:27:48:090 -> Depth in cm = 6881.85
+11:27:48:090 -> axis x = 89 axis y = 89 axis z = 89
+11:27:48:158 -> Compensated pressure in mmHg = 6020.73
+11:27:48:161 -> Depth in cm = 6881.85
+11:27:48:161 -> axis x = 89 axis y = 89 axis z = 89
+11:27:48:229 -> Compensated pressure in mmHg = 6020.73
+11:27:48:232 -> Depth in cm = 6881.85
+11:27:48:232 -> axis x = 89 axis y = 89 axis z = 89
+11:27:48:300 -> Compensated pressure in mmHg = 6020.73
+11:27:48:303 -> Depth in cm = 6881.85
+11:27:48:303 -> axis x = 89 axis y = 89 axis z = 89
+11:27:48:371 -> Compensated pressure in mmHg = 6020.73
+11:27:48:374 -> Depth in cm = 6881.85
+11:27:48:374 -> axis x = 89 axis y = 89 axis z = 89
+11:27:48:442 -> Compensated pressure in mmHg = 6020.73
+11:27:48:445 -> Depth in cm = 6881.85
+11:27:48:445 -> axis x = 89 axis y = 89 axis z = 89
+11:27:48:513 -> Compensated pressure in mmHg = 6020.73
+11:27:48:516 -> Depth in cm = 6881.85
+11:27:48:516 -> axis x = 89 axis y = 89 axis z = 89
+11:27:48:584 -> Compensated pressure in mmHg = 6020.73
+11:27:48:587 -> Depth in cm = 6881.85
+11:27:48:587 -> axis x = 89 axis y = 89 axis z = 89
+11:27:48:655 -> Compensated pressure in mmHg = 6020.73
+11:27:48:658 -> Depth in cm = 6881.85
+11:27:48:658 -> axis x = 89 axis y = 89 axis z = 89
+11:27:48:726 -> Compensated pressure in mmHg = 6020.73
+11:27:48:729 -> Depth in cm = 6881.85
+11:27:48:729 -> axis x = 89 axis y = 89 axis z = 89
+11:27:48:797 -> Compensated pressure in mmHg = 6020.73
+11:27:48:800 -> Depth in cm = 6881.85
+11:27:48:800 -> axis x = 89 axis y = 89 axis z = 89
+11:27:48:868 -> Compensated pressure in mmHg = 6020.73
+11:27:48:871 -> Depth in cm = 6881.85
+11:27:48:871 -> axis x = 89 axis y = 89 axis z = 89
+11:27:48:939 -> Compensated pressure in mmHg = 6020.73
+11:27:48:942 -> Depth in cm = 6881.85
+11:27:48:942 -> axis x = 89 axis y = 89 axis z = 89
+11:27:49:010 -> Compensated pressure in mmHg = 6020.73
+11:27:49:013 -> Depth in cm = 6881.85
+11:27:49:013 -> axis x = 89 axis y = 89 axis z = 89
+11:27:49:081 -> Compensated pressure in mmHg = 6020.73
+11:27:49:084 -> Depth in cm = 6881.85
+11:27:49:084 -> axis x = 89 axis y = 89 axis z = 89
+11:27:49:152 -> Compensated pressure in mmHg = 6020.73
+11:27:49:155 -> Depth in cm = 6881.85
+11:27:49:155 -> axis x = 89 axis y = 89 axis z = 89
+11:27:49:223 -> Compensated pressure in mmHg = 6020.73
+11:27:49:226 -> Depth in cm = 6881.85
+11:27:49:226 -> axis x = 89 axis y = 89 axis z = 89
+11:27:49:294 -> Compensated pressure in mmHg = 6020.73
+11:27:49:297 -> Depth in cm = 6881.85
+11:27:49:297 -> axis x = 89 axis y = 89 axis z = 89
+11:27:49:365 -> Compensated pressure in mmHg = 6020.73
+11:27:49:368 -> Depth in cm = 6881.85
+11:27:49:368 -> axis x = 89 axis y = 89 axis z = 89
+11:27:49:436 -> Compensated pressure in mmHg = 6020.73
+11:27:49:439 -> Depth in cm = 6881.85
+11:27:49:439 -> axis x = 89 axis y = 89 axis z = 89
+11:27:49:507 -> Compensated pressure in mmHg = 6020.73
+11:27:49:510 -> Depth in cm = 6881.85
+11:27:49:510 -> axis x = 89 axis y = 89 axis z = 89
+11:27:49:578 -> Compensated pressure in mmHg = 6020.73
+11:27:49:581 -> Depth in cm = 6881.85
+11:27:49:581 -> axis x = 89 axis y = 89 axis z = 89
+11:27:49:649 -> Compensated pressure in mmHg = 6020.73
+11:27:49:652 -> Depth in cm = 6881.85
+11:27:49:652 -> axis x = 89 axis y = 89 axis z = 89
+11:27:49:720 -> Compensated pressure in mmHg = 6020.73
+11:27:49:723 -> Depth in cm = 6881.85
+11:27:49:723 -> axis x = 89 axis y = 89 axis z = 89
+11:27:49:791 -> Compensated pressure in mmHg = 6020.73
+11:27:49:794 -> Depth in cm = 6881.85
+11:27:49:794 -> axis x = 89 axis y = 89 axis z = 89
+11:27:49:862 -> Compensated pressure in mmHg = 6020.73
+11:27:49:865 -> Depth in cm = 6881.85
+11:27:49:865 -> axis x = 89 axis y = 89 axis z = 89
+11:27:49:933 -> Compensated pressure in mmHg = 6020.73
+11:27:49:936 -> Depth in cm = 6881.85
+11:27:49:936 -> axis x = 89 axis y = 89 axis z = 89
+11:27:50:004 -> Compensated pressure in mmHg = 6020.73
+11:27:50:007 -> Depth in cm = 6881.85
+11:27:50:007 -> axis x = 89 axis y = 89 axis z = 89
+11:27:50:075 -> Compensated pressure in mmHg = 6020.73
+11:27:50:078 -> Depth in cm = 6881.85
+11:27:50:078 -> axis x = 89 axis y = 89 axis z = 89
+11:27:50:146 -> Compensated pressure in mmHg = 6020.73
+11:27:50:149 -> Depth in cm = 6881.85
+11:27:50:149 -> axis x = 89 axis y = 89 axis z = 89
+11:27:50:217 -> Compensated pressure in mmHg = 6020.73
+11:27:50:220 -> Depth in cm = 6881.85
+11:27:50:220 -> axis x = 89 axis y = 89 axis z = 89
+11:27:50:288 -> Compensated pressure in mmHg = 6020.73
+11:27:50:291 -> Depth in cm = 6881.85
+11:27:50:291 -> axis x = 89 axis y = 89 axis z = 89
+11:27:50:359 -> Compensated pressure in mmHg = 6020.73
+11:27:50:362 -> Depth in cm = 6881.85
+11:27:50:362 -> axis x = 89 axis y = 89 axis z = 89
+11:27:50:430 -> Compensated pressure in mmHg = 6020.73
+11:27:50:433 -> Depth in cm = 6881.85
+11:27:50:433 -> axis x = 89 axis y = 89 axis z = 89
+11:27:50:501 -> Compensated pressure in mmHg = 6020.73
+11:27:50:504 -> Depth in cm = 6881.85
+11:27:50:504 -> axis x = 89 axis y = 89 axis z = 89
+11:27:50:572 -> Compensated pressure in mmHg = 6020.73
+11:27:50:575 -> Depth in cm = 6881.85
+11:27:50:575 -> axis x = 89 axis y = 89 axis z = 89
+11:27:50:643 -> Compensated pressure in mmHg = 6020.73
+11:27:50:646 -> Depth in cm = 6881.85
+11:27:50:646 -> axis x = 89 axis y = 89 axis z = 89
+11:27:50:714 -> Compensated pressure in mmHg = 6020.73
+11:27:50:717 -> Depth in cm = 6881.85
+11:27:50:717 -> axis x = 89 axis y = 89 axis z = 89
+11:27:50:785 -> Compensated pressure in mmHg = 6020.73
+11:27:50:788 -> Depth in cm = 6881.85
+11:27:50:788 -> axis x = 89 axis y = 89 axis z = 89
+11:27:50:856 -> Compensated pressure in mmHg = 6020.73
+11:27:50:859 -> Depth in cm = 6881.85
+11:27:50:859 -> axis x = 89 axis y = 89 axis z = 89
+11:27:50:927 -> Compensated pressure in mmHg = 6020.73
+11:27:50:930 -> Depth in cm = 6881.85
+11:27:50:930 -> axis x = 89 axis y = 89 axis z = 89
+11:27:50:998 -> Compensated pressure in mmHg = 6020.73
+11:27:51:001 -> Depth in cm = 6881.85
+11:27:51:001 -> axis x = 89 axis y = 89 axis z = 89
+11:27:51:069 -> Compensated pressure in mmHg = 6020.73
+11:27:51:072 -> Depth in cm = 6881.85
+11:27:51:072 -> axis x = 89 axis y = 89 axis z = 89
+11:27:51:140 -> Compensated pressure in mmHg = 6020.73
+11:27:51:143 -> Depth in cm = 6881.85
+11:27:51:143 -> axis x = 89 axis y = 89 axis z = 89
+11:27:51:211 -> Compensated pressure in mmHg = 6020.73
+11:27:51:214 -> Depth in cm = 6881.85
+11:27:51:214 -> axis x = 89 axis y = 89 axis z = 89
+11:27:51:282 -> Compensated pressure in mmHg = 6020.73
+11:27:51:285 -> Depth in cm = 6881.85
+11:27:51:285 -> axis x = 89 axis y = 89 axis z = 89
+11:27:51:353 -> Compensated pressure in mmHg = 6020.73
+11:27:51:356 -> Depth in cm = 6881.85
+11:27:51:356 -> axis x = 89 axis y = 89 axis z = 89
+11:27:51:424 -> Compensated pressure in mmHg = 6020.73
+11:27:51:427 -> Depth in cm = 6881.85
+11:27:51:427 -> axis x = 89 axis y = 89 axis z = 89
+11:27:51:495 -> Compensated pressure in mmHg = 6020.73
+11:27:51:498 -> Depth in cm = 6881.85
+11:27:51:498 -> axis x = 89 axis y = 89 axis z = 89
+11:27:51:566 -> Compensated pressure in mmHg = 6020.73
+11:27:51:569 -> Depth in cm = 6881.85
+11:27:51:569 -> axis x = 89 axis y = 89 axis z = 89
+11:27:51:637 -> Compensated pressure in mmHg = 6020.73
+11:27:51:640 -> Depth in cm = 6881.85
+11:27:51:640 -> axis x = 89 axis y = 89 axis z = 89
+11:27:51:708 -> Compensated pressure in mmHg = 6020.73
+11:27:51:711 -> Depth in cm = 6881.85
+11:27:51:711 -> axis x = 89 axis y = 89 axis z = 89
+11:27:51:779 -> Compensated pressure in mmHg = 6020.73
+11:27:51:782 -> Depth in cm = 6881.85
+11:27:51:782 -> axis x = 89 axis y = 89 axis z = 89
+11:27:51:850 -> Compensated pressure in mmHg = 6020.73
+11:27:51:853 -> Depth in cm = 6881.85
+11:27:51:853 -> axis x = 89 axis y = 89 axis z = 89
+11:27:51:921 -> Compensated pressure in mmHg = 6020.73
+11:27:51:924 -> Depth in cm = 6881.85
+11:27:51:924 -> axis x = 89 axis y = 89 axis z = 89
+11:27:51:992 -> Compensated pressure in mmHg = 6020.73
+11:27:51:995 -> Depth in cm = 6881.85
+11:27:51:995 -> axis x = 89 axis y = 89 axis z = 89
+11:27:52:063 -> Compensated pressure in mmHg = 6020.73
+11:27:52:066 -> Depth in cm = 6881.85
+11:27:52:066 -> axis x = 89 axis y = 89 axis z = 89
+11:27:52:134 -> Compensated pressure in mmHg = 6020.73
+11:27:52:137 -> Depth in cm = 6881.85
+11:27:52:137 -> axis x = 89 axis y = 89 axis z = 89
+11:27:52:205 -> Compensated pressure in mmHg = 6020.73
+11:27:52:208 -> Depth in cm = 6881.85
+11:27:52:208 -> axis x = 89 axis y = 89 axis z = 89
+11:27:52:276 -> Compensated pressure in mmHg = 6020.73
+11:27:52:279 -> Depth in cm = 6881.85
+11:27:52:279 -> axis x = 89 axis y = 89 axis z = 89
+11:27:52:347 -> Compensated pressure in mmHg = 6020.73
+11:27:52:350 -> Depth in cm = 6881.85
+11:27:52:350 -> axis x = 89 axis y = 89 axis z = 89
+11:27:52:418 -> Compensated pressure in mmHg = 6020.73
+11:27:52:421 -> Depth in cm = 6881.85
+11:27:52:421 -> axis x = 89 axis y = 89 axis z = 89
+11:27:52:489 -> Compensated pressure in mmHg = 6020.73
+11:27:52:492 -> Depth in cm = 6881.85
+11:27:52:492 -> axis x = 89 axis y = 89 axis z = 89
+11:27:52:560 -> Compensated pressure in mmHg = 6020.73
+11:27:52:563 -> Depth in cm = 6881.85
+11:27:52:563 -> axis x = 89 axis y = 89 axis z = 89
+11:27:52:631 -> Compensated pressure in mmHg = 6020.73
+11:27:52:634 -> Depth in cm = 6881.85
+11:27:52:634 -> axis x = 89 axis y = 89 axis z = 89
+11:27:52:702 -> Compensated pressure in mmHg = 6020.73
+11:27:52:705 -> Depth in cm = 6881.85
+11:27:52:705 -> axis x = 89 axis y = 89 axis z = 89
+11:27:52:773 -> Compensated pressure in mmHg = 6020.73
+11:27:52:776 -> Depth in cm = 6881.85
+11:27:52:776 -> axis x = 89 axis y = 89 axis z = 89
+11:27:52:844 -> Compensated pressure in mmHg = 6020.73
+11:27:52:847 -> Depth in cm = 6881.85
+11:27:52:847 -> axis x = 89 axis y = 89 axis z = 89
+11:27:52:915 -> Compensated pressure in mmHg = 6020.73
+11:27:52:918 -> Depth in cm = 6881.85
+11:27:52:918 -> axis x = 89 axis y = 89 axis z = 89
+11:27:52:986 -> Compensated pressure in mmHg = 6020.73
+11:27:52:989 -> Depth in cm = 6881.85
+11:27:52:989 -> axis x = 89 axis y = 89 axis z = 89
+11:27:53:057 -> Compensated pressure in mmHg = 6020.73
+11:27:53:060 -> Depth in cm = 6881.85
+11:27:53:060 -> axis x = 89 axis y = 89 axis z = 89
+11:27:53:128 -> Compensated pressure in mmHg = 6020.73
+11:27:53:131 -> Depth in cm = 6881.85
+11:27:53:131 -> axis x = 89 axis y = 89 axis z = 89
+11:27:53:199 -> Compensated pressure in mmHg = 6020.73
+11:27:53:202 -> Depth in cm = 6881.85
+11:27:53:202 -> axis x = 89 axis y = 89 axis z = 89
+11:27:53:270 -> Compensated pressure in mmHg = 6020.73
+11:27:53:273 -> Depth in cm = 6881.85
+11:27:53:273 -> axis x = 89 axis y = 89 axis z = 89
+11:27:53:341 -> Compensated pressure in mmHg = 6020.73
+11:27:53:344 -> Depth in cm = 6881.85
+11:27:53:344 -> axis x = 89 axis y = 89 axis z = 89
+11:27:53:412 -> Compensated pressure in mmHg = 6020.73
+11:27:53:415 -> Depth in cm = 6881.85
+11:27:53:415 -> axis x = 89 axis y = 89 axis z = 89
+11:27:53:483 -> Compensated pressure in mmHg = 6020.73
+11:27:53:486 -> Depth in cm = 6881.85
+11:27:53:486 -> axis x = 89 axis y = 89 axis z = 89
+11:27:53:554 -> Compensated pressure in mmHg = 6020.73
+11:27:53:557 -> Depth in cm = 6881.85
+11:27:53:557 -> axis x = 89 axis y = 89 axis z = 89
+11:27:53:625 -> Compensated pressure in mmHg = 6020.73
+11:27:53:628 -> Depth in cm = 6881.85
+11:27:53:628 -> axis x = 89 axis y = 89 axis z = 89
+11:27:53:696 -> Compensated pressure in mmHg = 6020.73
+11:27:53:699 -> Depth in cm = 6881.85
+11:27:53:699 -> axis x = 89 axis y = 89 axis z = 89
+11:27:53:767 -> Compensated pressure in mmHg = 6020.73
+11:27:53:770 -> Depth in cm = 6881.85
+11:27:53:770 -> axis x = 89 axis y = 89 axis z = 89
+11:27:53:838 -> Compensated pressure in mmHg = 6020.73
+11:27:53:841 -> Depth in cm = 6881.85
+11:27:53:841 -> axis x = 89 axis y = 89 axis z = 89
+11:27:53:909 -> Compensated pressure in mmHg = 6020.73
+11:27:53:912 -> Depth in cm = 6881.85
+11:27:53:912 -> axis x = 89 axis y = 89 axis z = 89
+11:27:53:980 -> Compensated pressure in mmHg = 6020.73
+11:27:53:983 -> Depth in cm = 6881.85
+11:27:53:983 -> axis x = 89 axis y = 89 axis z = 89
+11:27:54:051 -> Compensated pressure in mmHg = 6020.73
+11:27:54:054 -> Depth in cm = 6881.85
+11:27:54:054 -> axis x = 89 axis y = 89 axis z = 89
+11:27:54:122 -> Compensated pressure in mmHg = 6020.73
+11:27:54:125 -> Depth in cm = 6881.85
+11:27:54:125 -> axis x = 89 axis y = 89 axis z = 89
+11:27:54:193 -> Compensated pressure in mmHg = 6020.73
+11:27:54:196 -> Depth in cm = 6881.85
+11:27:54:196 -> axis x = 89 axis y = 89 axis z = 89
+11:27:54:264 -> Compensated pressure in mmHg = 6020.73
+11:27:54:267 -> Depth in cm = 6881.85
+11:27:54:267 -> axis x = 89 axis y = 89 axis z = 89
+11:27:54:335 -> Compensated pressure in mmHg = 6020.73
+11:27:54:338 -> Depth in cm = 6881.85
+11:27:54:338 -> axis x = 89 axis y = 89 axis z = 89
+11:27:54:406 -> Compensated pressure in mmHg = 6020.73
+11:27:54:409 -> Depth in cm = 6881.85
+11:27:54:409 -> axis x = 89 axis y = 89 axis z = 89
+11:27:54:477 -> Compensated pressure in mmHg = 6020.73
+11:27:54:480 -> Depth in cm = 6881.85
+11:27:54:480 -> axis x = 89 axis y = 89 axis z = 89
+11:27:54:548 -> Compensated pressure in mmHg = 6020.73
+11:27:54:551 -> Depth in cm = 6881.85
+11:27:54:551 -> axis x = 89 axis y = 89 axis z = 89
+11:27:54:619 -> Compensated pressure in mmHg = 6020.73
+11:27:54:622 -> Depth in cm = 6881.85
+11:27:54:622 -> axis x = 89 axis y = 89 axis z = 89
+11:27:54:690 -> Compensated pressure in mmHg = 6020.73
+11:27:54:693 -> Depth in cm = 6881.85
+11:27:54:693 -> axis x = 89 axis y = 89 axis z = 89
+11:27:54:761 -> Compensated pressure in mmHg = 6020.73
+11:27:54:764 -> Depth in cm = 6881.85
+11:27:54:764 -> axis x = 89 axis y = 89 axis z = 89
+11:27:54:832 -> Compensated pressure in mmHg = 6020.73
+11:27:54:835 -> Depth in cm = 6881.85
+11:27:54:835 -> axis x = 89 axis y = 89 axis z = 89
+11:27:54:903 -> Compensated pressure in mmHg = 6020.73
+11:27:54:906 -> Depth in cm = 6881.85
+11:27:54:906 -> axis x = 89 axis y = 89 axis z = 89
+11:27:54:974 -> Compensated pressure in mmHg = 6020.73
+11:27:54:977 -> Depth in cm = 6881.85
+11:27:54:977 -> axis x = 89 axis y = 89 axis z = 89
+11:27:55:045 -> Compensated pressure in mmHg = 6020.73
+11:27:55:048 -> Depth in cm = 6881.85
+11:27:55:048 -> axis x = 89 axis y = 89 axis z = 89
+11:27:55:116 -> Compensated pressure in mmHg = 6020.73
+11:27:55:119 -> Depth in cm = 6881.85
+11:27:55:119 -> axis x = 89 axis y = 89 axis z = 89
+11:27:55:187 -> Compensated pressure in mmHg = 6020.73
+11:27:55:190 -> Depth in cm = 6881.85
+11:27:55:190 -> axis x = 89 axis y = 89 axis z = 89
+11:27:55:258 -> Compensated pressure in mmHg = 6020.73
+11:27:55:261 -> Depth in cm = 6881.85
+11:27:55:261 -> axis x = 89 axis y = 89 axis z = 89
+11:27:55:329 -> Compensated pressure in mmHg = 6020.73
+11:27:55:332 -> Depth in cm = 6881.85
+11:27:55:332 -> axis x = 89 axis y = 89 axis z = 89
+11:27:55:400 -> Compensated pressure in mmHg = 6020.73
+11:27:55:403 -> Depth in cm = 6881.85
+11:27:55:403 -> axis x = 89 axis y = 89 axis z = 89
+11:27:55:471 -> Compensated pressure in mmHg = 6020.73
+11:27:55:474 -> Depth in cm = 6881.85
+11:27:55:474 -> axis x = 89 axis y = 89 axis z = 89
+11:27:55:542 -> Compensated pressure in mmHg = 6020.73
+11:27:55:545 -> Depth in cm = 6881.85
+11:27:55:545 -> axis x = 89 axis y = 89 axis z = 89
+11:27:55:613 -> Compensated pressure in mmHg = 6020.73
+11:27:55:616 -> Depth in cm = 6881.85
+11:27:55:616 -> axis x = 89 axis y = 89 axis z = 89
+11:27:55:684 -> Compensated pressure in mmHg = 6020.73
+11:27:55:687 -> Depth in cm = 6881.85
+11:27:55:687 -> axis x = 89 axis y = 89 axis z = 89
+11:27:55:755 -> Compensated pressure in mmHg = 6020.73
+11:27:55:758 -> Depth in cm = 6881.85
+11:27:55:758 -> axis x = 89 axis y = 89 axis z = 89
+11:27:55:826 -> Compensated pressure in mmHg = 6020.73
+11:27:55:829 -> Depth in cm = 6881.85
+11:27:55:829 -> axis x = 89 axis y = 89 axis z = 89
+11:27:55:897 -> Compensated pressure in mmHg = 6020.73
+11:27:55:900 -> Depth in cm = 6881.85
+11:27:55:900 -> axis x = 89 axis y = 89 axis z = 89
+11:27:55:968 -> Compensated pressure in mmHg = 6020.73
+11:27:55:971 -> Depth in cm = 6881.85
+11:27:55:971 -> axis x = 89 axis y = 89 axis z = 89
+11:27:56:039 -> Compensated pressure in mmHg = 6020.73
+11:27:56:042 -> Depth in cm = 6881.85
+11:27:56:042 -> axis x = 89 axis y = 89 axis z = 89
+11:27:56:110 -> Compensated pressure in mmHg = 6020.73
+11:27:56:113 -> Depth in cm = 6881.85
+11:27:56:113 -> axis x = 89 axis y = 89 axis z = 89
+11:27:56:181 -> Compensated pressure in mmHg = 6020.73
+11:27:56:184 -> Depth in cm = 6881.85
+11:27:56:184 -> axis x = 89 axis y = 89 axis z = 89
+11:27:56:252 -> Compensated pressure in mmHg = 6020.73
+11:27:56:255 -> Depth in cm = 6881.85
+11:27:56:255 -> axis x = 89 axis y = 89 axis z = 89
+11:27:56:323 -> Compensated pressure in mmHg = 6020.73
+11:27:56:326 -> Depth in cm = 6881.85
+11:27:56:326 -> axis x = 89 axis y = 89 axis z = 89
+11:27:56:394 -> Compensated pressure in mmHg = 6020.73
+11:27:56:397 -> Depth in cm = 6881.85
+11:27:56:397 -> axis x = 89 axis y = 89 axis z = 89
+11:27:56:465 -> Compensated pressure in mmHg = 6020.73
+11:27:56:468 -> Depth in cm = 6881.85
+11:27:56:468 -> axis x = 89 axis y = 89 axis z = 89
+11:27:56:536 -> Compensated pressure in mmHg = 6020.73
+11:27:56:539 -> Depth in cm = 6881.85
+11:27:56:539 -> axis x = 89 axis y = 89 axis z = 89
+11:27:56:607 -> Compensated pressure in mmHg = 6020.73
+11:27:56:610 -> Depth in cm = 6881.85
+11:27:56:610 -> axis x = 89 axis y = 89 axis z = 89
+11:27:56:678 -> Compensated pressure in mmHg = 6020.73
+11:27:56:681 -> Depth in cm = 6881.85
+11:27:56:681 -> axis x = 89 axis y = 89 axis z = 89
+11:27:56:749 -> Compensated pressure in mmHg = 6020.73
+11:27:56:752 -> Depth in cm = 6881.85
+11:27:56:752 -> axis x = 89 axis y = 89 axis z = 89
+11:27:56:820 -> Compensated pressure in mmHg = 6020.73
+11:27:56:823 -> Depth in cm = 6881.85
+11:27:56:823 -> axis x = 89 axis y = 89 axis z = 89
+11:27:56:891 -> Compensated pressure in mmHg = 6020.73
+11:27:56:894 -> Depth in cm = 6881.85
+11:27:56:894 -> axis x = 89 axis y = 89 axis z = 89
+11:27:56:962 -> Compensated pressure in mmHg = 6020.73
+11:27:56:965 -> Depth in cm = 6881.85
+11:27:56:965 -> axis x = 89 axis y = 89 axis z = 89
+11:27:57:033 -> Compensated pressure in mmHg = 6020.73
+11:27:57:036 -> Depth in cm = 6881.85
+11:27:57:036 -> axis x = 89 axis y = 89 axis z = 89
+11:27:57:104 -> Compensated pressure in mmHg = 6020.73
+11:27:57:107 -> Depth in cm = 6881.85
+11:27:57:107 -> axis x = 89 axis y = 89 axis z = 89
+11:27:57:175 -> Compensated pressure in mmHg = 6020.73
+11:27:57:180 -> Depth in cm = 6881.85
+11:27:57:180 -> axis x = 89 axis y = 89 axis z = 89
+11:27:57:246 -> Compensated pressure in mmHg = 6020.73
+11:27:57:249 -> Depth in cm = 6881.85
+11:27:57:249 -> axis x = 89 axis y = 89 axis z = 89
+11:27:57:317 -> Compensated pressure in mmHg = 6020.73
+11:27:57:320 -> Depth in cm = 6881.85
+11:27:57:320 -> axis x = 89 axis y = 89 axis z = 89
+11:27:57:388 -> Compensated pressure in mmHg = 6020.73
+11:27:57:391 -> Depth in cm = 6881.85
+11:27:57:391 -> axis x = 89 axis y = 89 axis z = 89
+11:27:57:459 -> Compensated pressure in mmHg = 6020.73
+11:27:57:462 -> Depth in cm = 6881.85
+11:27:57:462 -> axis x = 89 axis y = 89 axis z = 89
+11:27:57:530 -> Compensated pressure in mmHg = 6020.73
+11:27:57:533 -> Depth in cm = 6881.85
+11:27:57:533 -> axis x = 89 axis y = 89 axis z = 89
+11:27:57:601 -> Compensated pressure in mmHg = 6020.73
+11:27:57:604 -> Depth in cm = 6881.85
+11:27:57:604 -> axis x = 89 axis y = 89 axis z = 89
+11:27:57:672 -> Compensated pressure in mmHg = 6020.73
+11:27:57:675 -> Depth in cm = 6881.85
+11:27:57:675 -> axis x = 89 axis y = 89 axis z = 89
+11:27:57:743 -> Compensated pressure in mmHg = 6020.73
+11:27:57:746 -> Depth in cm = 6881.85
+11:27:57:746 -> axis x = 89 axis y = 89 axis z = 89
+11:27:57:814 -> Compensated pressure in mmHg = 6020.73
+11:27:57:817 -> Depth in cm = 6881.85
+11:27:57:817 -> axis x = 89 axis y = 89 axis z = 89
+11:27:57:885 -> Compensated pressure in mmHg = 6020.73
+11:27:57:888 -> Depth in cm = 6881.85
+11:27:57:888 -> axis x = 89 axis y = 89 axis z = 89
+11:27:57:956 -> Compensated pressure in mmHg = 6020.73
+11:27:57:959 -> Depth in cm = 6881.85
+11:27:57:959 -> axis x = 89 axis y = 89 axis z = 89
+11:27:58:027 -> Compensated pressure in mmHg = 6020.73
+11:27:58:030 -> Depth in cm = 6881.85
+11:27:58:030 -> axis x = 89 axis y = 89 axis z = 89
+11:27:58:098 -> Compensated pressure in mmHg = 6020.73
+11:27:58:101 -> Depth in cm = 6881.85
+11:27:58:101 -> axis x = 89 axis y = 89 axis z = 89
+11:27:58:169 -> Compensated pressure in mmHg = 6020.73
+11:27:58:172 -> Depth in cm = 6881.85
+11:27:58:172 -> axis x = 89 axis y = 89 axis z = 89
+11:27:58:240 -> Compensated pressure in mmHg = 6020.73
+11:27:58:243 -> Depth in cm = 6881.85
+11:27:58:243 -> axis x = 89 axis y = 89 axis z = 89
+11:27:58:311 -> Compensated pressure in mmHg = 6020.73
+11:27:58:314 -> Depth in cm = 6881.85
+11:27:58:314 -> axis x = 89 axis y = 89 axis z = 89
+11:27:58:382 -> Compensated pressure in mmHg = 6020.73
+11:27:58:385 -> Depth in cm = 6881.85
+11:27:58:385 -> axis x = 89 axis y = 89 axis z = 89
+11:27:58:453 -> Compensated pressure in mmHg = 6020.73
+11:27:58:456 -> Depth in cm = 6881.85
+11:27:58:456 -> axis x = 89 axis y = 89 axis z = 89
+11:27:58:524 -> Compensated pressure in mmHg = 6020.73
+11:27:58:527 -> Depth in cm = 6881.85
+11:27:58:527 -> axis x = 89 axis y = 89 axis z = 89
+11:27:58:595 -> Compensated pressure in mmHg = 6020.73
+11:27:58:598 -> Depth in cm = 6881.85
+11:27:58:598 -> axis x = 89 axis y = 89 axis z = 89
+11:27:58:666 -> Compensated pressure in mmHg = 6020.73
+11:27:58:669 -> Depth in cm = 6881.85
+11:27:58:669 -> axis x = 89 axis y = 89 axis z = 89
+11:27:58:737 -> Compensated pressure in mmHg = 6020.73
+11:27:58:740 -> Depth in cm = 6881.85
+11:27:58:740 -> axis x = 89 axis y = 89 axis z = 89
+11:27:58:808 -> Compensated pressure in mmHg = 6020.73
+11:27:58:811 -> Depth in cm = 6881.85
+11:27:58:811 -> axis x = 89 axis y = 89 axis z = 89
+11:27:58:879 -> Compensated pressure in mmHg = 6020.73
+11:27:58:882 -> Depth in cm = 6881.85
+11:27:58:882 -> axis x = 89 axis y = 89 axis z = 89
+11:27:58:950 -> Compensated pressure in mmHg = 6020.73
+11:27:58:953 -> Depth in cm = 6881.85
+11:27:58:953 -> axis x = 89 axis y = 89 axis z = 89
+11:27:59:021 -> Compensated pressure in mmHg = 6020.73
+11:27:59:024 -> Depth in cm = 6881.85
+11:27:59:024 -> axis x = 89 axis y = 89 axis z = 89
+11:27:59:092 -> Compensated pressure in mmHg = 6020.73
+11:27:59:095 -> Depth in cm = 6881.85
+11:27:59:095 -> axis x = 89 axis y = 89 axis z = 89
+11:27:59:163 -> Compensated pressure in mmHg = 6020.73
+11:27:59:166 -> Depth in cm = 6881.85
+11:27:59:166 -> axis x = 89 axis y = 89 axis z = 89
+11:27:59:234 -> Compensated pressure in mmHg = 6020.73
+11:27:59:237 -> Depth in cm = 6881.85
+11:27:59:237 -> axis x = 89 axis y = 89 axis z = 89
+11:27:59:305 -> Compensated pressure in mmHg = 6020.73
+11:27:59:308 -> Depth in cm = 6881.85
+11:27:59:308 -> axis x = 89 axis y = 89 axis z = 89
+11:27:59:376 -> Compensated pressure in mmHg = 6020.73
+11:27:59:379 -> Depth in cm = 6881.85
+11:27:59:379 -> axis x = 89 axis y = 89 axis z = 89
+11:27:59:447 -> Compensated pressure in mmHg = 6020.73
+11:27:59:450 -> Depth in cm = 6881.85
+11:27:59:450 -> axis x = 89 axis y = 89 axis z = 89
+11:27:59:518 -> Compensated pressure in mmHg = 6020.73
+11:27:59:521 -> Depth in cm = 6881.85
+11:27:59:521 -> axis x = 89 axis y = 89 axis z = 89
+11:27:59:589 -> Compensated pressure in mmHg = 6020.73
+11:27:59:592 -> Depth in cm = 6881.85
+11:27:59:592 -> axis x = 89 axis y = 89 axis z = 89
+11:27:59:660 -> Compensated pressure in mmHg = 6020.73
+11:27:59:663 -> Depth in cm = 6881.85
+11:27:59:663 -> axis x = 89 axis y = 89 axis z = 89
+11:27:59:731 -> Compensated pressure in mmHg = 6020.73
+11:27:59:734 -> Depth in cm = 6881.85
+11:27:59:734 -> axis x = 89 axis y = 89 axis z = 89
+11:27:59:802 -> Compensated pressure in mmHg = 6020.73
+11:27:59:805 -> Depth in cm = 6881.85
+11:27:59:805 -> axis x = 89 axis y = 89 axis z = 89
+11:27:59:873 -> Compensated pressure in mmHg = 6020.73
+11:27:59:876 -> Depth in cm = 6881.85
+11:27:59:876 -> axis x = 89 axis y = 89 axis z = 89
+11:27:59:944 -> Compensated pressure in mmHg = 6020.73
+11:27:59:947 -> Depth in cm = 6881.85
+11:27:59:947 -> axis x = 89 axis y = 89 axis z = 89
+11:28:00:015 -> Compensated pressure in mmHg = 6020.73
+11:28:00:018 -> Depth in cm = 6881.85
+11:28:00:018 -> axis x = 89 axis y = 89 axis z = 89
+11:28:00:086 -> Compensated pressure in mmHg = 6020.73
+11:28:00:089 -> Depth in cm = 6881.85
+11:28:00:089 -> axis x = 89 axis y = 89 axis z = 89
+11:28:00:157 -> Compensated pressure in mmHg = 6020.73
+11:28:00:160 -> Depth in cm = 6881.85
+11:28:00:160 -> axis x = 89 axis y = 89 axis z = 89
+11:28:00:228 -> Compensated pressure in mmHg = 6020.73
+11:28:00:231 -> Depth in cm = 6881.85
+11:28:00:231 -> axis x = 89 axis y = 89 axis z = 89
+11:28:00:299 -> Compensated pressure in mmHg = 6020.73
+11:28:00:302 -> Depth in cm = 6881.85
+11:28:00:302 -> axis x = 89 axis y = 89 axis z = 89
+11:28:00:370 -> Compensated pressure in mmHg = 6020.73
+11:28:00:373 -> Depth in cm = 6881.85
+11:28:00:373 -> axis x = 89 axis y = 89 axis z = 89
+11:28:00:441 -> Compensated pressure in mmHg = 6020.73
+11:28:00:444 -> Depth in cm = 6881.85
+11:28:00:444 -> axis x = 89 axis y = 89 axis z = 89
+11:28:00:512 -> Compensated pressure in mmHg = 6020.73
+11:28:00:515 -> Depth in cm = 6881.85
+11:28:00:515 -> axis x = 89 axis y = 89 axis z = 89
+11:28:00:583 -> Compensated pressure in mmHg = 6020.73
+11:28:00:586 -> Depth in cm = 6881.85
+11:28:00:586 -> axis x = 89 axis y = 89 axis z = 89
+11:28:00:654 -> Compensated pressure in mmHg = 6020.73
+11:28:00:657 -> Depth in cm = 6881.85
+11:28:00:657 -> axis x = 89 axis y = 89 axis z = 89
+11:28:00:725 -> Compensated pressure in mmHg = 6020.73
+11:28:00:728 -> Depth in cm = 6881.85
+11:28:00:728 -> axis x = 89 axis y = 89 axis z = 89
+11:28:00:796 -> Compensated pressure in mmHg = 6020.73
+11:28:00:799 -> Depth in cm = 6881.85
+11:28:00:799 -> axis x = 89 axis y = 89 axis z = 89
+11:28:00:867 -> Compensated pressure in mmHg = 6020.73
+11:28:00:870 -> Depth in cm = 6881.85
+11:28:00:870 -> axis x = 89 axis y = 89 axis z = 89
+11:28:00:938 -> Compensated pressure in mmHg = 6020.73
+11:28:00:941 -> Depth in cm = 6881.85
+11:28:00:941 -> axis x = 89 axis y = 89 axis z = 89
